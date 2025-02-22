@@ -1,0 +1,3223 @@
+Item1,Item2,Time,Book
+Facts,Stick,1,hard-times
+Stick,Facts,1,hard-times
+Thomas Gradgrind,George Gradgrind,7,hard-times
+Thomas Gradgrind,John Gradgrind,7,hard-times
+Thomas Gradgrind,Joseph Gradgrind,7,hard-times
+Thomas Gradgrind,Thomas Gradgrind—no,7,hard-times
+George Gradgrind,Thomas Gradgrind,7,hard-times
+George Gradgrind,John Gradgrind,7,hard-times
+George Gradgrind,Joseph Gradgrind,7,hard-times
+George Gradgrind,Thomas Gradgrind—no,7,hard-times
+John Gradgrind,Thomas Gradgrind,7,hard-times
+John Gradgrind,George Gradgrind,7,hard-times
+John Gradgrind,Joseph Gradgrind,7,hard-times
+John Gradgrind,Thomas Gradgrind—no,7,hard-times
+Joseph Gradgrind,Thomas Gradgrind,7,hard-times
+Joseph Gradgrind,George Gradgrind,7,hard-times
+Joseph Gradgrind,John Gradgrind,7,hard-times
+Joseph Gradgrind,Thomas Gradgrind—no,7,hard-times
+Thomas Gradgrind—no,Thomas Gradgrind,7,hard-times
+Thomas Gradgrind—no,George Gradgrind,7,hard-times
+Thomas Gradgrind—no,John Gradgrind,7,hard-times
+Thomas Gradgrind—no,Joseph Gradgrind,7,hard-times
+Mr. Gradgrind,Thomas Gradgrind,8,hard-times
+Mr. Gradgrind,Thomas Gradgrind,8,hard-times
+Thomas Gradgrind,Mr. Gradgrind,8,hard-times
+Thomas Gradgrind,Mr. Gradgrind,8,hard-times
+Mr. Gradgrind,Don,12,hard-times
+Don,Mr. Gradgrind,12,hard-times
+Mr. Gradgrind,Cecilia Jupe,14,hard-times
+Cecilia Jupe,Mr. Gradgrind,14,hard-times
+Mr.,Gradgrind,16,hard-times
+Gradgrind,Mr.,16,hard-times
+Mr. Gradgrind,Girl,23,hard-times
+Mr. Gradgrind,Bitzer,23,hard-times
+Girl,Mr. Gradgrind,23,hard-times
+Girl,Bitzer,23,hard-times
+Bitzer,Mr. Gradgrind,23,hard-times
+Bitzer,Girl,23,hard-times
+Hoofs,Bitzer,26,hard-times
+Bitzer,Hoofs,26,hard-times
+Thomas Gradgrind,Don,35,hard-times
+Don,Thomas Gradgrind,35,hard-times
+Taste,Thomas Gradgrind,38,hard-times
+Thomas Gradgrind,Taste,38,hard-times
+Cecilia Jupe,Thomas Gradgrind,48,hard-times
+Thomas Gradgrind,Cecilia Jupe,48,hard-times
+Mr. M,Mr. Gradgrind,52,hard-times
+Mr. Gradgrind,Mr. M,52,hard-times
+Mr.,Gradgrind,53,hard-times
+Gradgrind,Mr.,53,hard-times
+Mr. M,Orthography,54,hard-times
+Mr. M,Her Majesty,54,hard-times
+Mr. M,Schedule B,54,hard-times
+Mr. M,Latin,54,hard-times
+Mr. M,M,54,hard-times
+Orthography,Mr. M,54,hard-times
+Orthography,Her Majesty,54,hard-times
+Orthography,Schedule B,54,hard-times
+Orthography,Latin,54,hard-times
+Orthography,M,54,hard-times
+Her Majesty,Mr. M,54,hard-times
+Her Majesty,Orthography,54,hard-times
+Her Majesty,Schedule B,54,hard-times
+Her Majesty,Latin,54,hard-times
+Her Majesty,M,54,hard-times
+Schedule B,Mr. M,54,hard-times
+Schedule B,Orthography,54,hard-times
+Schedule B,Her Majesty,54,hard-times
+Schedule B,Latin,54,hard-times
+Schedule B,M,54,hard-times
+Latin,Mr. M,54,hard-times
+Latin,Orthography,54,hard-times
+Latin,Her Majesty,54,hard-times
+Latin,Schedule B,54,hard-times
+Latin,M,54,hard-times
+M,Mr. M,54,hard-times
+M,Orthography,54,hard-times
+M,Her Majesty,54,hard-times
+M,Schedule B,54,hard-times
+M,Latin,54,hard-times
+Gradgrind,Twinkle,61,hard-times
+Gradgrind,Charles,61,hard-times
+Gradgrind,Wain,61,hard-times
+Gradgrind,Tom Thumb,61,hard-times
+Gradgrind,Twinkle,61,hard-times
+Gradgrind,Charles,61,hard-times
+Gradgrind,Wain,61,hard-times
+Gradgrind,Tom Thumb,61,hard-times
+Twinkle,Gradgrind,61,hard-times
+Twinkle,Gradgrind,61,hard-times
+Twinkle,Gradgrind,61,hard-times
+Twinkle,Charles,61,hard-times
+Twinkle,Wain,61,hard-times
+Twinkle,Gradgrind,61,hard-times
+Twinkle,Tom Thumb,61,hard-times
+Gradgrind,Twinkle,61,hard-times
+Gradgrind,Charles,61,hard-times
+Gradgrind,Wain,61,hard-times
+Gradgrind,Tom Thumb,61,hard-times
+Charles,Gradgrind,61,hard-times
+Charles,Gradgrind,61,hard-times
+Charles,Twinkle,61,hard-times
+Charles,Gradgrind,61,hard-times
+Charles,Wain,61,hard-times
+Charles,Gradgrind,61,hard-times
+Charles,Tom Thumb,61,hard-times
+Wain,Gradgrind,61,hard-times
+Wain,Gradgrind,61,hard-times
+Wain,Twinkle,61,hard-times
+Wain,Gradgrind,61,hard-times
+Wain,Charles,61,hard-times
+Wain,Gradgrind,61,hard-times
+Wain,Tom Thumb,61,hard-times
+Gradgrind,Twinkle,61,hard-times
+Gradgrind,Charles,61,hard-times
+Gradgrind,Wain,61,hard-times
+Gradgrind,Tom Thumb,61,hard-times
+Tom Thumb,Gradgrind,61,hard-times
+Tom Thumb,Gradgrind,61,hard-times
+Tom Thumb,Twinkle,61,hard-times
+Tom Thumb,Gradgrind,61,hard-times
+Tom Thumb,Charles,61,hard-times
+Tom Thumb,Wain,61,hard-times
+Tom Thumb,Gradgrind,61,hard-times
+Stone Lodge,Mr. Gradgrind,62,hard-times
+Mr. Gradgrind,Stone Lodge,62,hard-times
+Mr. Gradgrind,Stone Lodge,62,hard-times
+Mr. Gradgrind,Stone Lodge,62,hard-times
+Stone Lodge,Mr. Gradgrind,62,hard-times
+Stone Lodge,Mr. Gradgrind,62,hard-times
+Stone Lodge,Gas,63,hard-times
+Gas,Stone Lodge,63,hard-times
+Gradgrinds,Peter Piper,64,hard-times
+Peter Piper,Gradgrinds,64,hard-times
+Peter Piper,Gradgrinds,64,hard-times
+Peter Piper,Gradgrinds,64,hard-times
+Gradgrinds,Peter Piper,64,hard-times
+Gradgrinds,Peter Piper,64,hard-times
+Sissy Jupe,Coketowner,65,hard-times
+Coketowner,Sissy Jupe,65,hard-times
+Miss Josephine Sleary,Signor Jupe,66,hard-times
+Miss Josephine Sleary,Jupe,66,hard-times
+Miss Josephine Sleary,Mr. William Button,66,hard-times
+Miss Josephine Sleary,Tooley Street,66,hard-times
+Miss Josephine Sleary,Journey,66,hard-times
+Signor Jupe,Miss Josephine Sleary,66,hard-times
+Signor Jupe,Jupe,66,hard-times
+Signor Jupe,Mr. William Button,66,hard-times
+Signor Jupe,Tooley Street,66,hard-times
+Signor Jupe,Journey,66,hard-times
+Jupe,Miss Josephine Sleary,66,hard-times
+Jupe,Signor Jupe,66,hard-times
+Jupe,Mr. William Button,66,hard-times
+Jupe,Tooley Street,66,hard-times
+Jupe,Journey,66,hard-times
+Mr. William Button,Miss Josephine Sleary,66,hard-times
+Mr. William Button,Signor Jupe,66,hard-times
+Mr. William Button,Jupe,66,hard-times
+Mr. William Button,Tooley Street,66,hard-times
+Mr. William Button,Journey,66,hard-times
+Tooley Street,Miss Josephine Sleary,66,hard-times
+Tooley Street,Signor Jupe,66,hard-times
+Tooley Street,Jupe,66,hard-times
+Tooley Street,Mr. William Button,66,hard-times
+Tooley Street,Journey,66,hard-times
+Journey,Miss Josephine Sleary,66,hard-times
+Journey,Signor Jupe,66,hard-times
+Journey,Jupe,66,hard-times
+Journey,Mr. William Button,66,hard-times
+Journey,Tooley Street,66,hard-times
+Thomas,Gradgrind,67,hard-times
+Gradgrind,Thomas,67,hard-times
+Phenomenon,Louisa,69,hard-times
+Louisa,Phenomenon,69,hard-times
+Louisa,Thomas,71,hard-times
+Thomas,Louisa,71,hard-times
+Louisa,Thomas,72,hard-times
+Louisa,Thomas,72,hard-times
+Thomas,Louisa,72,hard-times
+Thomas,Louisa,72,hard-times
+Thomas,Louisa,81,hard-times
+Louisa,Thomas,81,hard-times
+Thomas,Mr. Gradgrind,83,hard-times
+Thomas,Mr. Gradgrind,83,hard-times
+Thomas,Mr. Gradgrind,83,hard-times
+Thomas,Mr. Gradgrind,83,hard-times
+Mr. Gradgrind,Thomas,83,hard-times
+Mr. Gradgrind,Thomas,83,hard-times
+Mr. Gradgrind,Thomas,83,hard-times
+Mr. Gradgrind,Thomas,83,hard-times
+Mr. Gradgrind,Louisa,87,hard-times
+Mr. Gradgrind,Mr. Bounderby,87,hard-times
+Louisa,Mr. Gradgrind,87,hard-times
+Louisa,Mr. Bounderby,87,hard-times
+Mr. Bounderby,Mr. Gradgrind,87,hard-times
+Mr. Bounderby,Louisa,87,hard-times
+Mr. Bounderby,Stone Lodge,88,hard-times
+Stone Lodge,Mr. Bounderby,88,hard-times
+Stone Lodge,Mr. Bounderby,88,hard-times
+Stone Lodge,Mr. Bounderby,88,hard-times
+Mr. Bounderby,Stone Lodge,88,hard-times
+Mr. Bounderby,Stone Lodge,88,hard-times
+Grundy,Mr. Bounderby,91,hard-times
+Mr. Bounderby,Grundy,91,hard-times
+Mr. Bounderby,Mr. Gradgrind,92,hard-times
+Mr. Bounderby,Mr. Bounderby—or,92,hard-times
+Mr. Gradgrind,Mr. Bounderby,92,hard-times
+Mr. Gradgrind,Mr. Bounderby—or,92,hard-times
+Mr. Bounderby—or,Mr. Bounderby,92,hard-times
+Mr. Bounderby—or,Mr. Gradgrind,92,hard-times
+Stone Lodge,Mr. Bounderby,95,hard-times
+Mr. Bounderby,Stone Lodge,95,hard-times
+Mr. Bounderby,Stone Lodge,95,hard-times
+Stone Lodge,Mr. Bounderby,95,hard-times
+Vagabond,Josiah Bounderby,110,hard-times
+Vagabond,Josiah Bounderby,110,hard-times
+Vagabond,Coketown,110,hard-times
+Vagabond,Giles,110,hard-times
+Vagabond,Church,110,hard-times
+Vagabond,Josiah Bounderby,110,hard-times
+Josiah Bounderby,Vagabond,110,hard-times
+Josiah Bounderby,Coketown,110,hard-times
+Josiah Bounderby,Giles,110,hard-times
+Josiah Bounderby,Church,110,hard-times
+Josiah Bounderby,Vagabond,110,hard-times
+Josiah Bounderby,Coketown,110,hard-times
+Josiah Bounderby,Giles,110,hard-times
+Josiah Bounderby,Church,110,hard-times
+Coketown,Vagabond,110,hard-times
+Coketown,Josiah Bounderby,110,hard-times
+Coketown,Josiah Bounderby,110,hard-times
+Coketown,Giles,110,hard-times
+Coketown,Church,110,hard-times
+Coketown,Josiah Bounderby,110,hard-times
+Giles,Vagabond,110,hard-times
+Giles,Josiah Bounderby,110,hard-times
+Giles,Josiah Bounderby,110,hard-times
+Giles,Coketown,110,hard-times
+Giles,Church,110,hard-times
+Giles,Josiah Bounderby,110,hard-times
+Church,Vagabond,110,hard-times
+Church,Josiah Bounderby,110,hard-times
+Church,Josiah Bounderby,110,hard-times
+Church,Coketown,110,hard-times
+Church,Giles,110,hard-times
+Church,Josiah Bounderby,110,hard-times
+Josiah Bounderby,Vagabond,110,hard-times
+Josiah Bounderby,Coketown,110,hard-times
+Josiah Bounderby,Giles,110,hard-times
+Josiah Bounderby,Church,110,hard-times
+Josiah Bounderby,Coketown,111,hard-times
+Josiah Bounderby,Louisa,111,hard-times
+Coketown,Josiah Bounderby,111,hard-times
+Coketown,Louisa,111,hard-times
+Louisa,Josiah Bounderby,111,hard-times
+Louisa,Coketown,111,hard-times
+Louisa,Thomas,116,hard-times
+Thomas,Louisa,116,hard-times
+Mr.,Gradgrind,117,hard-times
+Gradgrind,Mr.,117,hard-times
+Don,Gradgrind,120,hard-times
+Gradgrind,Don,120,hard-times
+Bounderby,Mr. Gradgrind,123,hard-times
+Bounderby,Thomas,123,hard-times
+Bounderby,Louisa,123,hard-times
+Mr. Gradgrind,Bounderby,123,hard-times
+Mr. Gradgrind,Bounderby,123,hard-times
+Mr. Gradgrind,Thomas,123,hard-times
+Mr. Gradgrind,Louisa,123,hard-times
+Bounderby,Mr. Gradgrind,123,hard-times
+Bounderby,Thomas,123,hard-times
+Bounderby,Louisa,123,hard-times
+Thomas,Bounderby,123,hard-times
+Thomas,Mr. Gradgrind,123,hard-times
+Thomas,Bounderby,123,hard-times
+Thomas,Louisa,123,hard-times
+Louisa,Bounderby,123,hard-times
+Louisa,Mr. Gradgrind,123,hard-times
+Louisa,Bounderby,123,hard-times
+Louisa,Thomas,123,hard-times
+Gradgrind,Bounderby,128,hard-times
+Gradgrind,Louisa,128,hard-times
+Bounderby,Gradgrind,128,hard-times
+Bounderby,Louisa,128,hard-times
+Louisa,Gradgrind,128,hard-times
+Louisa,Bounderby,128,hard-times
+Gradgrind,Thomas,129,hard-times
+Thomas,Gradgrind,129,hard-times
+Cecilia Jupe,Mr. Gradgrind,131,hard-times
+Mr. Gradgrind,Cecilia Jupe,131,hard-times
+Bounderby,Louisa,134,hard-times
+Louisa,Bounderby,134,hard-times
+Mr. Gradgrind,Louisa,137,hard-times
+Mr. Gradgrind,Thomas,137,hard-times
+Louisa,Mr. Gradgrind,137,hard-times
+Louisa,Thomas,137,hard-times
+Louisa,Mr. Gradgrind,137,hard-times
+Thomas,Mr. Gradgrind,137,hard-times
+Thomas,Louisa,137,hard-times
+Thomas,Mr. Gradgrind,137,hard-times
+Mr. Gradgrind,Louisa,137,hard-times
+Mr. Gradgrind,Thomas,137,hard-times
+Gradgrind,Mr. Bounderby,138,hard-times
+Mr. Bounderby,Gradgrind,138,hard-times
+Mr. Gradgrind,Louisa,144,hard-times
+Mr. Gradgrind,Thomas,144,hard-times
+Mr. Gradgrind,Adam Smith,144,hard-times
+Louisa,Mr. Gradgrind,144,hard-times
+Louisa,Thomas,144,hard-times
+Louisa,Adam Smith,144,hard-times
+Thomas,Mr. Gradgrind,144,hard-times
+Thomas,Louisa,144,hard-times
+Thomas,Adam Smith,144,hard-times
+Adam Smith,Mr. Gradgrind,144,hard-times
+Adam Smith,Louisa,144,hard-times
+Adam Smith,Thomas,144,hard-times
+Louisa,Thomas,145,hard-times
+Louisa,Mr. Bounderby,145,hard-times
+Thomas,Louisa,145,hard-times
+Thomas,Mr. Bounderby,145,hard-times
+Thomas,Louisa,145,hard-times
+Mr. Bounderby,Louisa,145,hard-times
+Mr. Bounderby,Thomas,145,hard-times
+Mr. Bounderby,Louisa,145,hard-times
+Louisa,Thomas,145,hard-times
+Louisa,Mr. Bounderby,145,hard-times
+Mr. Bounderby,Louisa,146,hard-times
+Louisa,Mr. Bounderby,146,hard-times
+Louisa,Mr. Bounderby,147,hard-times
+Mr. Bounderby,Louisa,147,hard-times
+Mr. Bounderby,Louisa,147,hard-times
+Louisa,Mr. Bounderby,147,hard-times
+Coketown,Mr. Gradgrind,158,hard-times
+Coketown,Mr. Bounderby,158,hard-times
+Mr. Gradgrind,Coketown,158,hard-times
+Mr. Gradgrind,Mr. Bounderby,158,hard-times
+Mr. Bounderby,Coketown,158,hard-times
+Mr. Bounderby,Mr. Gradgrind,158,hard-times
+Mr. Gradgrind,Which,161,hard-times
+Mr. Gradgrind,Bounderby,161,hard-times
+Which,Mr. Gradgrind,161,hard-times
+Which,Bounderby,161,hard-times
+Bounderby,Mr. Gradgrind,161,hard-times
+Bounderby,Which,161,hard-times
+Mr.,Bounderby,162,hard-times
+Bounderby,Mr.,162,hard-times
+Mr. Gradgrind,Halloa,163,hard-times
+Mr. Gradgrind,Stop,163,hard-times
+Halloa,Mr. Gradgrind,163,hard-times
+Halloa,Stop,163,hard-times
+Stop,Mr. Gradgrind,163,hard-times
+Stop,Halloa,163,hard-times
+Mr. Gradgrind,Bitzer,168,hard-times
+Bitzer,Mr. Gradgrind,168,hard-times
+Jupe,Mr. Gradgrind,169,hard-times
+Mr. Gradgrind,Jupe,169,hard-times
+Bitzer,Sissy,171,hard-times
+Bitzer,Mr. Bounderby,171,hard-times
+Sissy,Bitzer,171,hard-times
+Sissy,Bitzer,171,hard-times
+Sissy,Mr. Bounderby,171,hard-times
+Bitzer,Sissy,171,hard-times
+Bitzer,Mr. Bounderby,171,hard-times
+Mr. Bounderby,Bitzer,171,hard-times
+Mr. Bounderby,Sissy,171,hard-times
+Mr. Bounderby,Bitzer,171,hard-times
+Truly,Jupe,175,hard-times
+Jupe,Truly,175,hard-times
+Serve,Mr. Bounderby,184,hard-times
+Mr. Bounderby,Serve,184,hard-times
+George,Mr. Bounderby,185,hard-times
+Mr. Bounderby,George,185,hard-times
+Mr. Gradgrind,Mr. Bounderby,186,hard-times
+Mr. Gradgrind,Pod,186,hard-times
+Mr. Gradgrind,Jupe,186,hard-times
+Mr. Bounderby,Mr. Gradgrind,186,hard-times
+Mr. Bounderby,Pod,186,hard-times
+Mr. Bounderby,Jupe,186,hard-times
+Pod,Mr. Gradgrind,186,hard-times
+Pod,Mr. Bounderby,186,hard-times
+Pod,Jupe,186,hard-times
+Jupe,Mr. Gradgrind,186,hard-times
+Jupe,Mr. Bounderby,186,hard-times
+Jupe,Pod,186,hard-times
+Mr. Gradgrind,Mr. Bounderby,196,hard-times
+Mr. Bounderby,Mr. Gradgrind,196,hard-times
+Father,Sissy,197,hard-times
+Father,Signor Jupe,197,hard-times
+Father,Arms,197,hard-times
+Sissy,Father,197,hard-times
+Sissy,Signor Jupe,197,hard-times
+Sissy,Arms,197,hard-times
+Signor Jupe,Father,197,hard-times
+Signor Jupe,Sissy,197,hard-times
+Signor Jupe,Arms,197,hard-times
+Arms,Father,197,hard-times
+Arms,Sissy,197,hard-times
+Arms,Signor Jupe,197,hard-times
+Mr. Bounderby,Mr. E.,201,hard-times
+Mr. E.,Mr. Bounderby,201,hard-times
+Mr. E.,Jupe,202,hard-times
+Jupe,Mr. E.,202,hard-times
+Mr. Childers,Master Kidderminster,207,hard-times
+Mr. Childers,Cupid,207,hard-times
+Master Kidderminster,Mr. Childers,207,hard-times
+Master Kidderminster,Cupid,207,hard-times
+Cupid,Mr. Childers,207,hard-times
+Cupid,Master Kidderminster,207,hard-times
+Mr. Childers,Mr. Gradgrind,209,hard-times
+Mr. Childers,Jupe,209,hard-times
+Mr. Gradgrind,Mr. Childers,209,hard-times
+Mr. Gradgrind,Jupe,209,hard-times
+Jupe,Mr. Childers,209,hard-times
+Jupe,Mr. Gradgrind,209,hard-times
+Mr. Gradgrind,Bounderby,210,hard-times
+Bounderby,Mr. Gradgrind,210,hard-times
+Merrylegs,Bounderby,216,hard-times
+Merrylegs,Queer,216,hard-times
+Bounderby,Merrylegs,216,hard-times
+Bounderby,Queer,216,hard-times
+Queer,Merrylegs,216,hard-times
+Queer,Bounderby,216,hard-times
+Cupid,Oh Lord,217,hard-times
+Oh Lord,Cupid,217,hard-times
+Mr. Childers,Jupe,221,hard-times
+Jupe,Mr. Childers,221,hard-times
+Mr. Bounderby,Gradgrind,232,hard-times
+Gradgrind,Mr. Bounderby,232,hard-times
+Bounderby,Josiah Bounderby,234,hard-times
+Bounderby,Dick Jones,234,hard-times
+Josiah Bounderby,Bounderby,234,hard-times
+Josiah Bounderby,Dick Jones,234,hard-times
+Dick Jones,Bounderby,234,hard-times
+Dick Jones,Josiah Bounderby,234,hard-times
+Mr. E.,Don,235,hard-times
+Don,Mr. E.,235,hard-times
+Mr. Bounderby,Mr. Gradgrind,238,hard-times
+Mr. Gradgrind,Mr. Bounderby,238,hard-times
+Mr. Childers,Master Kidderminster,241,hard-times
+Mr. Childers,Sleary,241,hard-times
+Master Kidderminster,Mr. Childers,241,hard-times
+Master Kidderminster,Sleary,241,hard-times
+Sleary,Mr. Childers,241,hard-times
+Sleary,Master Kidderminster,241,hard-times
+Mr.,Mr. Gradgrind,248,hard-times
+Mr. Gradgrind,Mr.,248,hard-times
+Sissy,Mr. Childers,249,hard-times
+Mr. Childers,Sissy,249,hard-times
+Mr. Childers,Mr. Bounderby,251,hard-times
+Mr. Childers,Mr. Gradgrind,251,hard-times
+Mr. Childers,Bounderby,251,hard-times
+Mr. Bounderby,Mr. Childers,251,hard-times
+Mr. Bounderby,Mr. Gradgrind,251,hard-times
+Mr. Bounderby,Bounderby,251,hard-times
+Mr. Gradgrind,Mr. Childers,251,hard-times
+Mr. Gradgrind,Mr. Bounderby,251,hard-times
+Mr. Gradgrind,Bounderby,251,hard-times
+Bounderby,Mr. Childers,251,hard-times
+Bounderby,Mr. Bounderby,251,hard-times
+Bounderby,Mr. Gradgrind,251,hard-times
+Sleary,Mr. Childers,252,hard-times
+Sleary,Master Kidderminster,252,hard-times
+Mr. Childers,Sleary,252,hard-times
+Mr. Childers,Master Kidderminster,252,hard-times
+Master Kidderminster,Sleary,252,hard-times
+Master Kidderminster,Mr. Childers,252,hard-times
+Thquire,Therry,260,hard-times
+Thquire,Mr. Sleary,260,hard-times
+Therry,Thquire,260,hard-times
+Therry,Thquire,260,hard-times
+Therry,Mr. Sleary,260,hard-times
+Thquire,Therry,260,hard-times
+Thquire,Mr. Sleary,260,hard-times
+Mr. Sleary,Thquire,260,hard-times
+Mr. Sleary,Therry,260,hard-times
+Mr. Sleary,Thquire,260,hard-times
+Don,Thquire,262,hard-times
+Thquire,Don,262,hard-times
+Fact,Brute,267,hard-times
+Fact,Mr. Bounderby,267,hard-times
+Brute,Fact,267,hard-times
+Brute,Mr. Bounderby,267,hard-times
+Mr. Bounderby,Fact,267,hard-times
+Mr. Bounderby,Brute,267,hard-times
+Mr.,Mr. Gradgrind,269,hard-times
+Mr. Gradgrind,Mr.,269,hard-times
+Thquire,Thick,271,hard-times
+Thick,Thquire,271,hard-times
+Sleary,Thquire,273,hard-times
+Sleary,Emma Gordon,273,hard-times
+Sleary,Joth,273,hard-times
+Sleary,Thquire,273,hard-times
+Sleary,Thquire,273,hard-times
+Thquire,Sleary,273,hard-times
+Thquire,Emma Gordon,273,hard-times
+Thquire,Joth,273,hard-times
+Emma Gordon,Sleary,273,hard-times
+Emma Gordon,Thquire,273,hard-times
+Emma Gordon,Joth,273,hard-times
+Emma Gordon,Thquire,273,hard-times
+Emma Gordon,Thquire,273,hard-times
+Joth,Sleary,273,hard-times
+Joth,Thquire,273,hard-times
+Joth,Emma Gordon,273,hard-times
+Joth,Thquire,273,hard-times
+Joth,Thquire,273,hard-times
+Thquire,Sleary,273,hard-times
+Thquire,Emma Gordon,273,hard-times
+Thquire,Joth,273,hard-times
+Thquire,Sleary,273,hard-times
+Thquire,Emma Gordon,273,hard-times
+Thquire,Joth,273,hard-times
+Jupe,Mr. Gradgrind,277,hard-times
+Mr. Gradgrind,Jupe,277,hard-times
+Mr. Gradgrind,Jupe,279,hard-times
+Jupe,Mr. Gradgrind,279,hard-times
+Mr. Sleary,Mr. Thomas Gradgrind,281,hard-times
+Mr. Thomas Gradgrind,Mr. Sleary,281,hard-times
+Mr. Sleary,Thquire,282,hard-times
+Thquire,Mr. Sleary,282,hard-times
+Sissy,Mr. Gradgrind,284,hard-times
+Sissy,Bounderby,284,hard-times
+Sissy,Mr. Sleary,284,hard-times
+Sissy,Josephine,284,hard-times
+Mr. Gradgrind,Sissy,284,hard-times
+Mr. Gradgrind,Bounderby,284,hard-times
+Mr. Gradgrind,Mr. Sleary,284,hard-times
+Mr. Gradgrind,Josephine,284,hard-times
+Bounderby,Sissy,284,hard-times
+Bounderby,Mr. Gradgrind,284,hard-times
+Bounderby,Mr. Sleary,284,hard-times
+Bounderby,Josephine,284,hard-times
+Mr. Sleary,Sissy,284,hard-times
+Mr. Sleary,Mr. Gradgrind,284,hard-times
+Mr. Sleary,Bounderby,284,hard-times
+Mr. Sleary,Josephine,284,hard-times
+Josephine,Sissy,284,hard-times
+Josephine,Mr. Gradgrind,284,hard-times
+Josephine,Bounderby,284,hard-times
+Josephine,Mr. Sleary,284,hard-times
+Jupe,Mr. Gradgrind,286,hard-times
+Mr. Gradgrind,Jupe,286,hard-times
+Kidderminster,Mr. Sleary,287,hard-times
+Mr. Sleary,Kidderminster,287,hard-times
+Thquire,Thtick,294,hard-times
+Thquire,Sleary,294,hard-times
+Thtick,Thquire,294,hard-times
+Thtick,Thquire,294,hard-times
+Thtick,Sleary,294,hard-times
+Thtick,Thquire,294,hard-times
+Thquire,Thtick,294,hard-times
+Thquire,Sleary,294,hard-times
+Sleary,Thquire,294,hard-times
+Sleary,Thtick,294,hard-times
+Sleary,Thquire,294,hard-times
+Sleary,Thquire,294,hard-times
+Thquire,Thtick,294,hard-times
+Thquire,Sleary,294,hard-times
+MR.,Sparsit,298,hard-times
+MR.,Mr. Bounderby,298,hard-times
+Sparsit,MR.,298,hard-times
+Sparsit,Mr. Bounderby,298,hard-times
+Mr. Bounderby,MR.,298,hard-times
+Mr. Bounderby,Sparsit,298,hard-times
+Sparsit,Lady Scadgers,299,hard-times
+Sparsit,Mr. Sparsit,299,hard-times
+Sparsit,Powler,299,hard-times
+Sparsit,Hebrew,299,hard-times
+Lady Scadgers,Sparsit,299,hard-times
+Lady Scadgers,Mr. Sparsit,299,hard-times
+Lady Scadgers,Powler,299,hard-times
+Lady Scadgers,Hebrew,299,hard-times
+Mr. Sparsit,Sparsit,299,hard-times
+Mr. Sparsit,Lady Scadgers,299,hard-times
+Mr. Sparsit,Powler,299,hard-times
+Mr. Sparsit,Hebrew,299,hard-times
+Powler,Sparsit,299,hard-times
+Powler,Lady Scadgers,299,hard-times
+Powler,Mr. Sparsit,299,hard-times
+Powler,Hebrew,299,hard-times
+Hebrew,Sparsit,299,hard-times
+Hebrew,Lady Scadgers,299,hard-times
+Hebrew,Mr. Sparsit,299,hard-times
+Hebrew,Powler,299,hard-times
+Mr. Sparsit,Lady Scadgers,300,hard-times
+Mr. Sparsit,Sparsit,300,hard-times
+Mr. Sparsit,Sparsit,300,hard-times
+Mr. Sparsit,Mr. Bounderby,300,hard-times
+Lady Scadgers,Mr. Sparsit,300,hard-times
+Lady Scadgers,Sparsit,300,hard-times
+Lady Scadgers,Sparsit,300,hard-times
+Lady Scadgers,Mr. Bounderby,300,hard-times
+Sparsit,Mr. Sparsit,300,hard-times
+Sparsit,Lady Scadgers,300,hard-times
+Sparsit,Mr. Bounderby,300,hard-times
+Sparsit,Mr. Sparsit,300,hard-times
+Sparsit,Lady Scadgers,300,hard-times
+Sparsit,Mr. Bounderby,300,hard-times
+Mr. Bounderby,Mr. Sparsit,300,hard-times
+Mr. Bounderby,Lady Scadgers,300,hard-times
+Mr. Bounderby,Sparsit,300,hard-times
+Mr. Bounderby,Sparsit,300,hard-times
+Bounderby,Josiah Bounderby,301,hard-times
+Josiah Bounderby,Bounderby,301,hard-times
+Magna Charta,John Bull,302,hard-times
+Magna Charta,Habeas Corpus,302,hard-times
+Magna Charta,Church,302,hard-times
+John Bull,Magna Charta,302,hard-times
+John Bull,Habeas Corpus,302,hard-times
+John Bull,Church,302,hard-times
+Habeas Corpus,Magna Charta,302,hard-times
+Habeas Corpus,John Bull,302,hard-times
+Habeas Corpus,Church,302,hard-times
+Church,Magna Charta,302,hard-times
+Church,John Bull,302,hard-times
+Church,Habeas Corpus,302,hard-times
+Tom Gradgrind,Thomas,306,hard-times
+Tom Gradgrind,Thomas,306,hard-times
+Thomas,Tom Gradgrind,306,hard-times
+Thomas,Tom Gradgrind,306,hard-times
+Thomas,Tom Gradgrind,306,hard-times
+Tom Gradgrind,Thomas,306,hard-times
+Bounderby,Tom Gradgrind,308,hard-times
+Tom Gradgrind,Bounderby,308,hard-times
+Miss Gradgrind,Mr. Bounderby,313,hard-times
+Mr. Bounderby,Miss Gradgrind,313,hard-times
+Louisa,Mr. Bounderby,316,hard-times
+Mr. Bounderby,Louisa,316,hard-times
+Mr. Bounderby,Louisa,316,hard-times
+Mr. Bounderby,Louisa,316,hard-times
+Louisa,Mr. Bounderby,316,hard-times
+Louisa,Mr. Bounderby,316,hard-times
+Egad,Bounderby,322,hard-times
+Egad,Arcade,322,hard-times
+Bounderby,Egad,322,hard-times
+Bounderby,Arcade,322,hard-times
+Arcade,Egad,322,hard-times
+Arcade,Bounderby,322,hard-times
+Mr.,Bounderby,326,hard-times
+Bounderby,Mr.,326,hard-times
+Mr. Bounderby,Mr.,331,hard-times
+Mr. Bounderby,Miss Gradgrind,331,hard-times
+Mr.,Mr. Bounderby,331,hard-times
+Mr.,Miss Gradgrind,331,hard-times
+Miss Gradgrind,Mr. Bounderby,331,hard-times
+Miss Gradgrind,Mr.,331,hard-times
+Bounderby,Mr. Gradgrind,332,hard-times
+Mr. Gradgrind,Bounderby,332,hard-times
+Jupe,Mr. Bounderby,333,hard-times
+Jupe,Tom Gradgrind,333,hard-times
+Jupe,Bounderby,333,hard-times
+Mr. Bounderby,Jupe,333,hard-times
+Mr. Bounderby,Tom Gradgrind,333,hard-times
+Mr. Bounderby,Bounderby,333,hard-times
+Tom Gradgrind,Jupe,333,hard-times
+Tom Gradgrind,Mr. Bounderby,333,hard-times
+Tom Gradgrind,Bounderby,333,hard-times
+Bounderby,Jupe,333,hard-times
+Bounderby,Mr. Bounderby,333,hard-times
+Bounderby,Tom Gradgrind,333,hard-times
+Bounderby,Mr. Gradgrind,335,hard-times
+Mr. Gradgrind,Bounderby,335,hard-times
+Tom Gradgrind,Bounderby,336,hard-times
+Bounderby,Tom Gradgrind,336,hard-times
+Mr. Gradgrind,Louisa,338,hard-times
+Louisa,Mr. Gradgrind,338,hard-times
+Merrylegs,Jupe,343,hard-times
+Merrylegs,Mr. Gradgrind,343,hard-times
+Jupe,Merrylegs,343,hard-times
+Jupe,Mr. Gradgrind,343,hard-times
+Mr. Gradgrind,Merrylegs,343,hard-times
+Mr. Gradgrind,Jupe,343,hard-times
+Mr. Gradgrind,Jupe,346,hard-times
+Jupe,Mr. Gradgrind,346,hard-times
+Mr. Gradgrind,Never,348,hard-times
+Mr. Gradgrind,Bounderby,348,hard-times
+Never,Mr. Gradgrind,348,hard-times
+Never,Bounderby,348,hard-times
+Bounderby,Mr. Gradgrind,348,hard-times
+Bounderby,Never,348,hard-times
+Mr. Gradgrind,Cecilia Jupe,350,hard-times
+Mr. Gradgrind,Stone Lodge,350,hard-times
+Mr. Gradgrind,Louisa,350,hard-times
+Mr. Gradgrind,Mr. Bounderby,350,hard-times
+Mr. Gradgrind,Sparsit,350,hard-times
+Cecilia Jupe,Mr. Gradgrind,350,hard-times
+Cecilia Jupe,Stone Lodge,350,hard-times
+Cecilia Jupe,Louisa,350,hard-times
+Cecilia Jupe,Mr. Bounderby,350,hard-times
+Cecilia Jupe,Sparsit,350,hard-times
+Stone Lodge,Mr. Gradgrind,350,hard-times
+Stone Lodge,Cecilia Jupe,350,hard-times
+Stone Lodge,Louisa,350,hard-times
+Stone Lodge,Mr. Bounderby,350,hard-times
+Stone Lodge,Sparsit,350,hard-times
+Louisa,Mr. Gradgrind,350,hard-times
+Louisa,Cecilia Jupe,350,hard-times
+Louisa,Stone Lodge,350,hard-times
+Louisa,Mr. Bounderby,350,hard-times
+Louisa,Sparsit,350,hard-times
+Mr. Bounderby,Mr. Gradgrind,350,hard-times
+Mr. Bounderby,Cecilia Jupe,350,hard-times
+Mr. Bounderby,Stone Lodge,350,hard-times
+Mr. Bounderby,Louisa,350,hard-times
+Mr. Bounderby,Sparsit,350,hard-times
+Sparsit,Mr. Gradgrind,350,hard-times
+Sparsit,Cecilia Jupe,350,hard-times
+Sparsit,Stone Lodge,350,hard-times
+Sparsit,Louisa,350,hard-times
+Sparsit,Mr. Bounderby,350,hard-times
+Louisa,Mr. Gradgrind,354,hard-times
+Mr. Gradgrind,Louisa,354,hard-times
+Mr. Gradgrind,De Foe,357,hard-times
+Mr. Gradgrind,Cocker,357,hard-times
+De Foe,Mr. Gradgrind,357,hard-times
+De Foe,Cocker,357,hard-times
+De Foe,Mr. Gradgrind,357,hard-times
+Cocker,Mr. Gradgrind,357,hard-times
+Cocker,De Foe,357,hard-times
+Cocker,Mr. Gradgrind,357,hard-times
+Mr. Gradgrind,De Foe,357,hard-times
+Mr. Gradgrind,Cocker,357,hard-times
+Loo,Thomas Gradgrind,358,hard-times
+Thomas Gradgrind,Loo,358,hard-times
+Sissy,Tom,359,hard-times
+Tom,Sissy,359,hard-times
+Young,Thomas,363,hard-times
+Thomas,Young,363,hard-times
+Jail,Tom,366,hard-times
+Tom,Jail,366,hard-times
+Louisa,Tom,371,hard-times
+Tom,Louisa,371,hard-times
+Tom,Loo,372,hard-times
+Loo,Tom,372,hard-times
+Tom,Mr. Bounderby,377,hard-times
+Mr. Bounderby,Tom,377,hard-times
+Tom,Loo,381,hard-times
+Tom,Mr. Bounderby,381,hard-times
+Loo,Tom,381,hard-times
+Loo,Mr. Bounderby,381,hard-times
+Mr. Bounderby,Tom,381,hard-times
+Mr. Bounderby,Loo,381,hard-times
+Tom,Mr. Bounderby,386,hard-times
+Mr. Bounderby,Tom,386,hard-times
+Loo,Don,389,hard-times
+Don,Loo,389,hard-times
+Louisa,Thomas,396,hard-times
+Thomas,Louisa,396,hard-times
+Louisa,Tom,397,hard-times
+Tom,Louisa,397,hard-times
+Don,Louisa,399,hard-times
+Louisa,Don,399,hard-times
+Jupe,Mr. Gradgrind,404,hard-times
+Mr. Gradgrind,Jupe,404,hard-times
+Mr.,Gradgrind,405,hard-times
+Mr.,Jupe,405,hard-times
+Mr.,Jupe,405,hard-times
+Gradgrind,Mr.,405,hard-times
+Gradgrind,Jupe,405,hard-times
+Gradgrind,Jupe,405,hard-times
+Jupe,Mr.,405,hard-times
+Jupe,Gradgrind,405,hard-times
+Jupe,Mr.,405,hard-times
+Jupe,Gradgrind,405,hard-times
+Miss Louisa,Louisa,406,hard-times
+Louisa,Miss Louisa,406,hard-times
+Sissy,Miss Louisa.,410,hard-times
+Sissy,Miss Louisa,410,hard-times
+Miss Louisa.,Sissy,410,hard-times
+Miss Louisa.,Miss Louisa,410,hard-times
+Miss Louisa,Sissy,410,hard-times
+Miss Louisa,Miss Louisa.,410,hard-times
+Sissy,Louisa,411,hard-times
+Sissy,Louisa,411,hard-times
+Louisa,Sissy,411,hard-times
+Louisa,Sissy,411,hard-times
+Miss Louisa,Sissy,413,hard-times
+Sissy,Miss Louisa,413,hard-times
+Sissy,Mr.,415,hard-times
+Mr.,Sissy,415,hard-times
+Sissy,Mr. M,419,hard-times
+Mr. M,Sissy,419,hard-times
+Miss Louisa,Mr. M,427,hard-times
+Miss Louisa,Choakumchild,427,hard-times
+Mr. M,Miss Louisa,427,hard-times
+Mr. M,Choakumchild,427,hard-times
+Choakumchild,Miss Louisa,427,hard-times
+Choakumchild,Mr. M,427,hard-times
+Mr. M,Choakumchild,429,hard-times
+Choakumchild,Mr. M,429,hard-times
+Miss,Mr. M,431,hard-times
+Miss,Choakumchild,431,hard-times
+Miss,Sissy,431,hard-times
+Mr. M,Miss,431,hard-times
+Mr. M,Choakumchild,431,hard-times
+Mr. M,Sissy,431,hard-times
+Choakumchild,Miss,431,hard-times
+Choakumchild,Mr. M,431,hard-times
+Choakumchild,Sissy,431,hard-times
+Sissy,Miss,431,hard-times
+Sissy,Mr. M,431,hard-times
+Sissy,Choakumchild,431,hard-times
+Sissy,Louisa,436,hard-times
+Louisa,Sissy,436,hard-times
+Miss Louisa,Sissy,437,hard-times
+Sissy,Miss Louisa,437,hard-times
+Father,Sissy,439,hard-times
+Sissy,Father,439,hard-times
+Father,Sissy,445,hard-times
+Sissy,Father,445,hard-times
+Always,Sissy,453,hard-times
+Always,Merrylegs,453,hard-times
+Always,Merrylegs,453,hard-times
+Sissy,Always,453,hard-times
+Sissy,Merrylegs,453,hard-times
+Sissy,Merrylegs,453,hard-times
+Merrylegs,Always,453,hard-times
+Merrylegs,Sissy,453,hard-times
+Merrylegs,Always,453,hard-times
+Merrylegs,Sissy,453,hard-times
+Father,Pray,455,hard-times
+Pray,Father,455,hard-times
+Sissy,Tom,460,hard-times
+Sissy,Tom,460,hard-times
+Tom,Sissy,460,hard-times
+Tom,Sissy,460,hard-times
+Sissy,Merrylegs,464,hard-times
+Sissy,Father,464,hard-times
+Merrylegs,Sissy,464,hard-times
+Merrylegs,Father,464,hard-times
+Merrylegs,Sissy,464,hard-times
+Father,Sissy,464,hard-times
+Father,Merrylegs,464,hard-times
+Father,Sissy,464,hard-times
+Sissy,Merrylegs,464,hard-times
+Sissy,Father,464,hard-times
+Loo,Tom,465,hard-times
+Tom,Loo,465,hard-times
+Miss Louisa,Mr. Gradgrind,466,hard-times
+Miss Louisa,Mr. Sleary,466,hard-times
+Miss Louisa,Mr. Sleary,466,hard-times
+Mr. Gradgrind,Miss Louisa,466,hard-times
+Mr. Gradgrind,Mr. Sleary,466,hard-times
+Mr. Gradgrind,Mr. Sleary,466,hard-times
+Mr. Sleary,Miss Louisa,466,hard-times
+Mr. Sleary,Mr. Gradgrind,466,hard-times
+Mr. Sleary,Miss Louisa,466,hard-times
+Mr. Sleary,Mr. Gradgrind,466,hard-times
+Loo,Tom,467,hard-times
+Tom,Loo,467,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Louisa,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Fact,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Louisa,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Jupe,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Jupe,468,hard-times
+Mr. Gradgrind,Fact,468,hard-times
+Louisa,Sissy,468,hard-times
+Louisa,Mr. Gradgrind,468,hard-times
+Louisa,Sissy,468,hard-times
+Louisa,Mr. Gradgrind,468,hard-times
+Louisa,Jupe,468,hard-times
+Louisa,Sissy,468,hard-times
+Louisa,Sissy,468,hard-times
+Louisa,Mr. Gradgrind,468,hard-times
+Louisa,Jupe,468,hard-times
+Louisa,Fact,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Louisa,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Fact,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Louisa,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Jupe,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Jupe,468,hard-times
+Mr. Gradgrind,Fact,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Mr. Gradgrind,468,hard-times
+Jupe,Louisa,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Mr. Gradgrind,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Mr. Gradgrind,468,hard-times
+Jupe,Fact,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Louisa,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Fact,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Louisa,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Mr. Gradgrind,468,hard-times
+Sissy,Jupe,468,hard-times
+Sissy,Fact,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Louisa,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Jupe,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Sissy,468,hard-times
+Mr. Gradgrind,Jupe,468,hard-times
+Mr. Gradgrind,Fact,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Mr. Gradgrind,468,hard-times
+Jupe,Louisa,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Mr. Gradgrind,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Sissy,468,hard-times
+Jupe,Mr. Gradgrind,468,hard-times
+Jupe,Fact,468,hard-times
+Fact,Sissy,468,hard-times
+Fact,Mr. Gradgrind,468,hard-times
+Fact,Louisa,468,hard-times
+Fact,Sissy,468,hard-times
+Fact,Mr. Gradgrind,468,hard-times
+Fact,Jupe,468,hard-times
+Fact,Sissy,468,hard-times
+Fact,Sissy,468,hard-times
+Fact,Mr. Gradgrind,468,hard-times
+Fact,Jupe,468,hard-times
+Nature,Providence,475,hard-times
+Nature,Stephen Blackpool,475,hard-times
+Providence,Nature,475,hard-times
+Providence,Stephen Blackpool,475,hard-times
+Stephen Blackpool,Nature,475,hard-times
+Stephen Blackpool,Providence,475,hard-times
+Fairy,Old Stephen,478,hard-times
+Old Stephen,Fairy,478,hard-times
+Stephen,Tis,493,hard-times
+Tis,Stephen,493,hard-times
+Heaven,Hast,507,hard-times
+Hast,Heaven,507,hard-times
+Stephen,Art,518,hard-times
+Stephen,Nature,518,hard-times
+Stephen,Set,518,hard-times
+Art,Stephen,518,hard-times
+Art,Nature,518,hard-times
+Art,Set,518,hard-times
+Nature,Stephen,518,hard-times
+Nature,Art,518,hard-times
+Nature,Set,518,hard-times
+Set,Stephen,518,hard-times
+Set,Art,518,hard-times
+Set,Nature,518,hard-times
+Mill,Steam Power,519,hard-times
+Steam Power,Mill,519,hard-times
+Mr.,Bounderby,523,hard-times
+Mr.,Stephen,523,hard-times
+Mr.,Hands,523,hard-times
+Mr.,Stephen Blackpool,523,hard-times
+Mr.,Stephen Blackpool,523,hard-times
+Bounderby,Mr.,523,hard-times
+Bounderby,Stephen,523,hard-times
+Bounderby,Hands,523,hard-times
+Bounderby,Stephen Blackpool,523,hard-times
+Bounderby,Stephen Blackpool,523,hard-times
+Stephen,Mr.,523,hard-times
+Stephen,Bounderby,523,hard-times
+Stephen,Hands,523,hard-times
+Stephen,Stephen Blackpool,523,hard-times
+Stephen,Stephen Blackpool,523,hard-times
+Hands,Mr.,523,hard-times
+Hands,Bounderby,523,hard-times
+Hands,Stephen,523,hard-times
+Hands,Stephen Blackpool,523,hard-times
+Hands,Stephen Blackpool,523,hard-times
+Stephen Blackpool,Mr.,523,hard-times
+Stephen Blackpool,Bounderby,523,hard-times
+Stephen Blackpool,Stephen,523,hard-times
+Stephen Blackpool,Hands,523,hard-times
+Stephen Blackpool,Mr.,523,hard-times
+Stephen Blackpool,Bounderby,523,hard-times
+Stephen Blackpool,Stephen,523,hard-times
+Stephen Blackpool,Hands,523,hard-times
+Stephen Blackpool,Mr. Bounderby,524,hard-times
+Mr. Bounderby,Stephen Blackpool,524,hard-times
+Stephen,Mr. Bounderby,525,hard-times
+Mr. Bounderby,Stephen,525,hard-times
+Mr.,Bounderby,529,hard-times
+Bounderby,Mr.,529,hard-times
+Stephen,Mr. Bounderby,530,hard-times
+Mr. Bounderby,Stephen,530,hard-times
+Mr.,Bounderby,531,hard-times
+Mr.,Stephen,531,hard-times
+Bounderby,Mr.,531,hard-times
+Bounderby,Stephen,531,hard-times
+Stephen,Mr.,531,hard-times
+Stephen,Bounderby,531,hard-times
+Stephen,Eas,535,hard-times
+Eas,Stephen,535,hard-times
+Mr. Bounderby,Gooseberry,536,hard-times
+Gooseberry,Mr. Bounderby,536,hard-times
+Mr.,Bounderby,550,hard-times
+Bounderby,Mr.,550,hard-times
+Stephen,Sparsit,552,hard-times
+Sparsit,Stephen,552,hard-times
+Hem,Mr. Bounderby,567,hard-times
+Mr. Bounderby,Hem,567,hard-times
+Sizes,Mine,568,hard-times
+Mine,Sizes,568,hard-times
+Doctors,Mr. Bounderby,573,hard-times
+Mr. Bounderby,Doctors,573,hard-times
+Pooh,Don,578,hard-times
+Pooh,Mr. Bounderby,578,hard-times
+Don,Pooh,578,hard-times
+Don,Mr. Bounderby,578,hard-times
+Mr. Bounderby,Pooh,578,hard-times
+Mr. Bounderby,Don,578,hard-times
+Stephen,Mr. Bounderby,581,hard-times
+Mr. Bounderby,Stephen,581,hard-times
+Mr. Bounderby,Stephen,601,hard-times
+Stephen,Mr. Bounderby,601,hard-times
+Stephen,Divine Right,609,hard-times
+Divine Right,Stephen,609,hard-times
+Stephen,Death,623,hard-times
+Stephen,Birth,623,hard-times
+Death,Stephen,623,hard-times
+Death,Birth,623,hard-times
+Birth,Stephen,623,hard-times
+Birth,Death,623,hard-times
+Stephen,Landlady,632,hard-times
+Landlady,Stephen,632,hard-times
+Landlady,Stephen,632,hard-times
+Stephen,Landlady,632,hard-times
+Thou,Stephen,636,hard-times
+Stephen,Thou,636,hard-times
+Stephen,Rachael,642,hard-times
+Stephen,Three,642,hard-times
+Stephen,Tis,642,hard-times
+Rachael,Stephen,642,hard-times
+Rachael,Three,642,hard-times
+Rachael,Tis,642,hard-times
+Three,Stephen,642,hard-times
+Three,Rachael,642,hard-times
+Three,Tis,642,hard-times
+Tis,Stephen,642,hard-times
+Tis,Rachael,642,hard-times
+Tis,Three,642,hard-times
+Tis,Thou,644,hard-times
+Thou,Tis,644,hard-times
+Stephen,Rachael,668,hard-times
+Rachael,Stephen,668,hard-times
+Stephen,Tis,669,hard-times
+Stephen,Hush,669,hard-times
+Tis,Stephen,669,hard-times
+Tis,Hush,669,hard-times
+Hush,Stephen,669,hard-times
+Hush,Tis,669,hard-times
+Thou,Bless,677,hard-times
+Bless,Thou,677,hard-times
+Louisa,Mr. Gradgrind,690,hard-times
+Mr. Gradgrind,Louisa,690,hard-times
+Thomas,Mr. Gradgrind,692,hard-times
+Mr. Gradgrind,Thomas,692,hard-times
+Time,Thomas,693,hard-times
+Thomas,Time,693,hard-times
+Really,Mr. Gradgrind,694,hard-times
+Really,Thomas,694,hard-times
+Mr. Gradgrind,Really,694,hard-times
+Mr. Gradgrind,Thomas,694,hard-times
+Thomas,Really,694,hard-times
+Thomas,Mr. Gradgrind,694,hard-times
+Bounderby,Bank,695,hard-times
+Bank,Bounderby,695,hard-times
+Jupe,Mr. Gradgrind,697,hard-times
+Mr. Gradgrind,Jupe,697,hard-times
+Jupe,Mr. Gradgrind,699,hard-times
+Jupe,Mr.,699,hard-times
+Mr. Gradgrind,Jupe,699,hard-times
+Mr. Gradgrind,Mr.,699,hard-times
+Mr.,Jupe,699,hard-times
+Mr.,Mr. Gradgrind,699,hard-times
+Jupe,Mr. Gradgrind,703,hard-times
+Mr. Gradgrind,Jupe,703,hard-times
+Don,Mr. Gradgrind,705,hard-times
+Mr. Gradgrind,Don,705,hard-times
+Mr. Gradgrind,Don,705,hard-times
+Don,Mr. Gradgrind,705,hard-times
+Miss Louisa,Mr. Gradgrind,707,hard-times
+Mr. Gradgrind,Miss Louisa,707,hard-times
+Mr. Gradgrind,Miss Louisa,709,hard-times
+Miss Louisa,Mr. Gradgrind,709,hard-times
+Young Thomas,Sissy,711,hard-times
+Young Thomas,Mr. Gradgrind,711,hard-times
+Sissy,Young Thomas,711,hard-times
+Sissy,Mr. Gradgrind,711,hard-times
+Mr. Gradgrind,Young Thomas,711,hard-times
+Mr. Gradgrind,Sissy,711,hard-times
+Time,Coketown,712,hard-times
+Coketown,Time,712,hard-times
+Mr. Gradgrind,Louisa,724,hard-times
+Louisa,Mr. Gradgrind,724,hard-times
+Tom,Loo,735,hard-times
+Loo,Tom,735,hard-times
+Tom,Loo,739,hard-times
+Loo,Tom,739,hard-times
+Stone Lodge,Old Time,740,hard-times
+Old Time,Stone Lodge,740,hard-times
+Mr. Gradgrind,Blue Beard,743,hard-times
+Blue Beard,Mr. Gradgrind,743,hard-times
+Blue Beard,Mr. Gradgrind,743,hard-times
+Mr. Gradgrind,Blue Beard,743,hard-times
+Mr. Gradgrind,Louisa,750,hard-times
+Louisa,Mr. Gradgrind,750,hard-times
+Louisa,Mr. Bounderby,753,hard-times
+Louisa,Mr. Bounderby,753,hard-times
+Mr. Bounderby,Louisa,753,hard-times
+Mr. Bounderby,Louisa,753,hard-times
+Father,Louisa,755,hard-times
+Father,Mr. Bounderby,755,hard-times
+Louisa,Father,755,hard-times
+Louisa,Mr. Bounderby,755,hard-times
+Mr. Bounderby,Father,755,hard-times
+Mr. Bounderby,Louisa,755,hard-times
+Mr.,Gradgrind,756,hard-times
+Gradgrind,Mr.,756,hard-times
+Father,Louisa,757,hard-times
+Father,Mr. Bounderby,757,hard-times
+Louisa,Father,757,hard-times
+Louisa,Mr. Bounderby,757,hard-times
+Mr. Bounderby,Father,757,hard-times
+Mr. Bounderby,Louisa,757,hard-times
+Father,Mr. Bounderby,759,hard-times
+Mr. Bounderby,Father,759,hard-times
+Louisa,Mr. Bounderby,762,hard-times
+Louisa,Mr. Bounderby,762,hard-times
+Mr. Bounderby,Louisa,762,hard-times
+Mr. Bounderby,Louisa,762,hard-times
+Louisa,Mr. Gradgrind,764,hard-times
+Louisa,Mr. Bounderby,764,hard-times
+Louisa,Wales,764,hard-times
+Mr. Gradgrind,Louisa,764,hard-times
+Mr. Gradgrind,Mr. Bounderby,764,hard-times
+Mr. Gradgrind,Wales,764,hard-times
+Mr. Bounderby,Louisa,764,hard-times
+Mr. Bounderby,Mr. Gradgrind,764,hard-times
+Mr. Bounderby,Wales,764,hard-times
+Wales,Louisa,764,hard-times
+Wales,Mr. Gradgrind,764,hard-times
+Wales,Mr. Bounderby,764,hard-times
+Louisa,Mr. Bounderby,766,hard-times
+Mr. Bounderby,Louisa,766,hard-times
+Mr. Gradgrind,Louisa,770,hard-times
+Louisa,Mr. Gradgrind,770,hard-times
+Mr. Gradgrind,Louisa,778,hard-times
+Louisa,Mr. Gradgrind,778,hard-times
+Mr.,Gradgrind,780,hard-times
+Gradgrind,Mr.,780,hard-times
+Mr.,Gradgrind,786,hard-times
+Gradgrind,Mr.,786,hard-times
+Louisa,Mr. Gradgrind,789,hard-times
+Mr. Gradgrind,Louisa,789,hard-times
+Mr.,Gradgrind,793,hard-times
+Mr.,Louisa,793,hard-times
+Gradgrind,Mr.,793,hard-times
+Gradgrind,Louisa,793,hard-times
+Louisa,Mr.,793,hard-times
+Louisa,Gradgrind,793,hard-times
+Mr. Bounderby,Louisa,794,hard-times
+Louisa,Mr. Bounderby,794,hard-times
+Mr. Gradgrind,Louisa,799,hard-times
+Mr. Gradgrind,Josiah,799,hard-times
+Mr. Gradgrind,Joe,799,hard-times
+Mr. Gradgrind,Mister,799,hard-times
+Louisa,Mr. Gradgrind,799,hard-times
+Louisa,Josiah,799,hard-times
+Louisa,Joe,799,hard-times
+Louisa,Mister,799,hard-times
+Josiah,Mr. Gradgrind,799,hard-times
+Josiah,Louisa,799,hard-times
+Josiah,Joe,799,hard-times
+Josiah,Mister,799,hard-times
+Joe,Mr. Gradgrind,799,hard-times
+Joe,Louisa,799,hard-times
+Joe,Josiah,799,hard-times
+Joe,Mister,799,hard-times
+Mister,Mr. Gradgrind,799,hard-times
+Mister,Louisa,799,hard-times
+Mister,Josiah,799,hard-times
+Mister,Joe,799,hard-times
+Louisa,Otherwise,801,hard-times
+Otherwise,Louisa,801,hard-times
+Mr. Gradgrind,Sissy,802,hard-times
+Mr. Gradgrind,Louisa,802,hard-times
+Mr. Gradgrind,Louisa,802,hard-times
+Sissy,Mr. Gradgrind,802,hard-times
+Sissy,Louisa,802,hard-times
+Sissy,Louisa,802,hard-times
+Louisa,Mr. Gradgrind,802,hard-times
+Louisa,Sissy,802,hard-times
+Louisa,Mr. Gradgrind,802,hard-times
+Louisa,Sissy,802,hard-times
+MR.,Lady Scadgers,805,hard-times
+MR.,Mr. Bounderby,805,hard-times
+Lady Scadgers,MR.,805,hard-times
+Lady Scadgers,Mr. Bounderby,805,hard-times
+Mr. Bounderby,MR.,805,hard-times
+Mr. Bounderby,Lady Scadgers,805,hard-times
+George,Mr. Bounderby,806,hard-times
+Mr. Bounderby,George,806,hard-times
+Don,Mr. Bounderby,809,hard-times
+Mr. Bounderby,Don,809,hard-times
+Mr.,Bounderby,811,hard-times
+Mr.,Mr. Bounderby,811,hard-times
+Bounderby,Mr.,811,hard-times
+Bounderby,Mr. Bounderby,811,hard-times
+Mr. Bounderby,Mr.,811,hard-times
+Mr. Bounderby,Bounderby,811,hard-times
+Sparsit,Mr. Bounderby,812,hard-times
+Mr. Bounderby,Sparsit,812,hard-times
+Sparsit,Mr. Bounderby,814,hard-times
+Mr. Bounderby,Sparsit,814,hard-times
+Bounderby,Tom Gradgrind,816,hard-times
+Tom Gradgrind,Bounderby,816,hard-times
+Mr. Bounderby,Bounderby,817,hard-times
+Bounderby,Mr. Bounderby,817,hard-times
+Bounderby,_I_,828,hard-times
+_I_,Bounderby,828,hard-times
+Sir,Miss Gradgrind,831,hard-times
+Miss Gradgrind,Sir,831,hard-times
+Bounderby,Sparsit,832,hard-times
+Bounderby,Victim,832,hard-times
+Sparsit,Bounderby,832,hard-times
+Sparsit,Victim,832,hard-times
+Victim,Bounderby,832,hard-times
+Victim,Sparsit,832,hard-times
+Mr. Bounderby,Stone Lodge,833,hard-times
+Mr. Bounderby,Love,833,hard-times
+Mr. Bounderby,Facts,833,hard-times
+Stone Lodge,Mr. Bounderby,833,hard-times
+Stone Lodge,Love,833,hard-times
+Stone Lodge,Facts,833,hard-times
+Love,Mr. Bounderby,833,hard-times
+Love,Stone Lodge,833,hard-times
+Love,Facts,833,hard-times
+Facts,Mr. Bounderby,833,hard-times
+Facts,Stone Lodge,833,hard-times
+Facts,Love,833,hard-times
+Bounderby Esquire,Thomas Gradgrind Esquire,834,hard-times
+Bounderby Esquire,Stone Lodge,834,hard-times
+Thomas Gradgrind Esquire,Bounderby Esquire,834,hard-times
+Thomas Gradgrind Esquire,Stone Lodge,834,hard-times
+Stone Lodge,Bounderby Esquire,834,hard-times
+Stone Lodge,Thomas Gradgrind Esquire,834,hard-times
+Josiah Bounderby,Tom Gradgrind,837,hard-times
+Josiah Bounderby,Tom Gradgrind,837,hard-times
+Josiah Bounderby,Tom Gradgrind,837,hard-times
+Tom Gradgrind,Josiah Bounderby,837,hard-times
+Tom Gradgrind,Josiah Bounderby,837,hard-times
+Tom Gradgrind,Josiah Bounderby,837,hard-times
+Mr. Bounderby,Hands,838,hard-times
+Mr. Bounderby,Tom,838,hard-times
+Hands,Mr. Bounderby,838,hard-times
+Hands,Tom,838,hard-times
+Tom,Mr. Bounderby,838,hard-times
+Tom,Hands,838,hard-times
+Loo,Tom,839,hard-times
+Tom,Loo,839,hard-times
+Sparsit,Mr. Bounderby,853,hard-times
+Mr. Bounderby,Sparsit,853,hard-times
+Mr. Bounderby,Sparsit,853,hard-times
+Sparsit,Mr. Bounderby,853,hard-times
+Thomas,Mr. Thomas,881,hard-times
+Mr. Thomas,Thomas,881,hard-times
+Bitzer,Otherwise,891,hard-times
+Otherwise,Bitzer,891,hard-times
+Powler Family,Sparsit,925,hard-times
+Sparsit,Powler Family,925,hard-times
+Mr. Bounderby,Banker,932,hard-times
+Banker,Mr. Bounderby,932,hard-times
+Banker,Mr. Bounderby,932,hard-times
+Mr. Bounderby,Banker,932,hard-times
+Sparsit,Mr. Bounderby,937,hard-times
+Mr. Bounderby,Sparsit,937,hard-times
+Powler,Pray,947,hard-times
+Pray,Powler,947,hard-times
+Inquest,Laughter,962,hard-times
+Laughter,Inquest,962,hard-times
+Jem,Mr. Gradgrind,963,hard-times
+Jem,Mr. Bounderby,963,hard-times
+Jem,Josiah Bounderby,963,hard-times
+Jem,Esquire,963,hard-times
+Jem,James Harthouse,963,hard-times
+Jem,Esquire,963,hard-times
+Jem,Thomas Gradgrind,963,hard-times
+Mr. Gradgrind,Jem,963,hard-times
+Mr. Gradgrind,Jem,963,hard-times
+Mr. Gradgrind,Mr. Bounderby,963,hard-times
+Mr. Gradgrind,Josiah Bounderby,963,hard-times
+Mr. Gradgrind,Esquire,963,hard-times
+Mr. Gradgrind,James Harthouse,963,hard-times
+Mr. Gradgrind,Esquire,963,hard-times
+Mr. Gradgrind,Thomas Gradgrind,963,hard-times
+Jem,Mr. Gradgrind,963,hard-times
+Jem,Mr. Bounderby,963,hard-times
+Jem,Josiah Bounderby,963,hard-times
+Jem,Esquire,963,hard-times
+Jem,James Harthouse,963,hard-times
+Jem,Esquire,963,hard-times
+Jem,Thomas Gradgrind,963,hard-times
+Mr. Bounderby,Jem,963,hard-times
+Mr. Bounderby,Mr. Gradgrind,963,hard-times
+Mr. Bounderby,Jem,963,hard-times
+Mr. Bounderby,Josiah Bounderby,963,hard-times
+Mr. Bounderby,Esquire,963,hard-times
+Mr. Bounderby,James Harthouse,963,hard-times
+Mr. Bounderby,Esquire,963,hard-times
+Mr. Bounderby,Thomas Gradgrind,963,hard-times
+Josiah Bounderby,Jem,963,hard-times
+Josiah Bounderby,Mr. Gradgrind,963,hard-times
+Josiah Bounderby,Jem,963,hard-times
+Josiah Bounderby,Mr. Bounderby,963,hard-times
+Josiah Bounderby,Esquire,963,hard-times
+Josiah Bounderby,James Harthouse,963,hard-times
+Josiah Bounderby,Esquire,963,hard-times
+Josiah Bounderby,Thomas Gradgrind,963,hard-times
+Esquire,Jem,963,hard-times
+Esquire,Mr. Gradgrind,963,hard-times
+Esquire,Jem,963,hard-times
+Esquire,Mr. Bounderby,963,hard-times
+Esquire,Josiah Bounderby,963,hard-times
+Esquire,James Harthouse,963,hard-times
+Esquire,Thomas Gradgrind,963,hard-times
+James Harthouse,Jem,963,hard-times
+James Harthouse,Mr. Gradgrind,963,hard-times
+James Harthouse,Jem,963,hard-times
+James Harthouse,Mr. Bounderby,963,hard-times
+James Harthouse,Josiah Bounderby,963,hard-times
+James Harthouse,Esquire,963,hard-times
+James Harthouse,Esquire,963,hard-times
+James Harthouse,Thomas Gradgrind,963,hard-times
+Esquire,Jem,963,hard-times
+Esquire,Mr. Gradgrind,963,hard-times
+Esquire,Jem,963,hard-times
+Esquire,Mr. Bounderby,963,hard-times
+Esquire,Josiah Bounderby,963,hard-times
+Esquire,James Harthouse,963,hard-times
+Esquire,Thomas Gradgrind,963,hard-times
+Thomas Gradgrind,Jem,963,hard-times
+Thomas Gradgrind,Mr. Gradgrind,963,hard-times
+Thomas Gradgrind,Jem,963,hard-times
+Thomas Gradgrind,Mr. Bounderby,963,hard-times
+Thomas Gradgrind,Josiah Bounderby,963,hard-times
+Thomas Gradgrind,Esquire,963,hard-times
+Thomas Gradgrind,James Harthouse,963,hard-times
+Thomas Gradgrind,Esquire,963,hard-times
+Mr. James Harthouse,Mr. Bounderby,964,hard-times
+Mr. Bounderby,Mr. James Harthouse,964,hard-times
+Mr. Bounderby,Mr. James Harthouse,964,hard-times
+Mr. James Harthouse,Mr. Bounderby,964,hard-times
+Mr.,James Harthouse,966,hard-times
+James Harthouse,Mr.,966,hard-times
+Don,Bounderby,969,hard-times
+Bounderby,Don,969,hard-times
+Mr. Harthouse,Bounderby,970,hard-times
+Bounderby,Mr. Harthouse,970,hard-times
+Mr.,Harthouse,974,hard-times
+Harthouse,Mr.,974,hard-times
+Mr. Bounderby,Mr. Harthouse,975,hard-times
+Mr. Bounderby,Tom Gradgrind,975,hard-times
+Mr. Bounderby,Don,975,hard-times
+Mr. Harthouse,Mr. Bounderby,975,hard-times
+Mr. Harthouse,Tom Gradgrind,975,hard-times
+Mr. Harthouse,Don,975,hard-times
+Tom Gradgrind,Mr. Bounderby,975,hard-times
+Tom Gradgrind,Mr. Harthouse,975,hard-times
+Tom Gradgrind,Don,975,hard-times
+Don,Mr. Bounderby,975,hard-times
+Don,Mr. Harthouse,975,hard-times
+Don,Tom Gradgrind,975,hard-times
+Jem,Mr. Bounderby,976,hard-times
+Mr. Bounderby,Jem,976,hard-times
+Mr. Harthouse,Mr. Bounderby,978,hard-times
+Mr. Bounderby,Mr. Harthouse,978,hard-times
+Bounderby,Jem,980,hard-times
+Jem,Bounderby,980,hard-times
+Mr. Bounderby,Mr. James Harthouse,981,hard-times
+Mr. James Harthouse,Mr. Bounderby,981,hard-times
+Cheerless,Mr. Bounderby,982,hard-times
+Cheerless,Mr. Bounderby,982,hard-times
+Mr. Bounderby,Cheerless,982,hard-times
+Mr. Bounderby,Cheerless,982,hard-times
+Bounderby,Tom Gradgrind,983,hard-times
+Bounderby,Loo,983,hard-times
+Bounderby,Mr. James Harthouse,983,hard-times
+Bounderby,Mr. Harthouse,983,hard-times
+Bounderby,Tom Gradgrind,983,hard-times
+Bounderby,Mr. Harthouse,983,hard-times
+Bounderby,Loo Bounderby,983,hard-times
+Tom Gradgrind,Bounderby,983,hard-times
+Tom Gradgrind,Loo,983,hard-times
+Tom Gradgrind,Mr. James Harthouse,983,hard-times
+Tom Gradgrind,Mr. Harthouse,983,hard-times
+Tom Gradgrind,Mr. Harthouse,983,hard-times
+Tom Gradgrind,Loo Bounderby,983,hard-times
+Loo,Bounderby,983,hard-times
+Loo,Tom Gradgrind,983,hard-times
+Loo,Mr. James Harthouse,983,hard-times
+Loo,Mr. Harthouse,983,hard-times
+Loo,Tom Gradgrind,983,hard-times
+Loo,Mr. Harthouse,983,hard-times
+Loo,Loo Bounderby,983,hard-times
+Mr. James Harthouse,Bounderby,983,hard-times
+Mr. James Harthouse,Tom Gradgrind,983,hard-times
+Mr. James Harthouse,Loo,983,hard-times
+Mr. James Harthouse,Mr. Harthouse,983,hard-times
+Mr. James Harthouse,Tom Gradgrind,983,hard-times
+Mr. James Harthouse,Mr. Harthouse,983,hard-times
+Mr. James Harthouse,Loo Bounderby,983,hard-times
+Mr. Harthouse,Bounderby,983,hard-times
+Mr. Harthouse,Tom Gradgrind,983,hard-times
+Mr. Harthouse,Loo,983,hard-times
+Mr. Harthouse,Mr. James Harthouse,983,hard-times
+Mr. Harthouse,Tom Gradgrind,983,hard-times
+Mr. Harthouse,Loo Bounderby,983,hard-times
+Tom Gradgrind,Bounderby,983,hard-times
+Tom Gradgrind,Loo,983,hard-times
+Tom Gradgrind,Mr. James Harthouse,983,hard-times
+Tom Gradgrind,Mr. Harthouse,983,hard-times
+Tom Gradgrind,Mr. Harthouse,983,hard-times
+Tom Gradgrind,Loo Bounderby,983,hard-times
+Mr. Harthouse,Bounderby,983,hard-times
+Mr. Harthouse,Tom Gradgrind,983,hard-times
+Mr. Harthouse,Loo,983,hard-times
+Mr. Harthouse,Mr. James Harthouse,983,hard-times
+Mr. Harthouse,Tom Gradgrind,983,hard-times
+Mr. Harthouse,Loo Bounderby,983,hard-times
+Loo Bounderby,Bounderby,983,hard-times
+Loo Bounderby,Tom Gradgrind,983,hard-times
+Loo Bounderby,Loo,983,hard-times
+Loo Bounderby,Mr. James Harthouse,983,hard-times
+Loo Bounderby,Mr. Harthouse,983,hard-times
+Loo Bounderby,Tom Gradgrind,983,hard-times
+Loo Bounderby,Mr. Harthouse,983,hard-times
+George,Josiah Bounderby,985,hard-times
+George,Loo Bounderby,985,hard-times
+Josiah Bounderby,George,985,hard-times
+Josiah Bounderby,Loo Bounderby,985,hard-times
+Loo Bounderby,George,985,hard-times
+Loo Bounderby,Josiah Bounderby,985,hard-times
+Bounderby,Jem,986,hard-times
+Jem,Bounderby,986,hard-times
+Mr. Bounderby,Louisa,989,hard-times
+Louisa,Mr. Bounderby,989,hard-times
+Mr. Bounderby,Mr. James Harthouse,996,hard-times
+Mr. Bounderby,Mr. James Harthouse,996,hard-times
+Mr. James Harthouse,Mr. Bounderby,996,hard-times
+Mr. James Harthouse,Mr. Bounderby,996,hard-times
+Mr. Bounderby,Jem,997,hard-times
+Mr. Bounderby,Jerusalem,997,hard-times
+Mr. Bounderby,Louisa,997,hard-times
+Jem,Mr. Bounderby,997,hard-times
+Jem,Jerusalem,997,hard-times
+Jem,Louisa,997,hard-times
+Jerusalem,Mr. Bounderby,997,hard-times
+Jerusalem,Jem,997,hard-times
+Jerusalem,Louisa,997,hard-times
+Louisa,Mr. Bounderby,997,hard-times
+Louisa,Jem,997,hard-times
+Louisa,Jerusalem,997,hard-times
+Jupiter,Tom,999,hard-times
+Tom,Jupiter,999,hard-times
+Tom,Bounderby,1003,hard-times
+Bounderby,Tom,1003,hard-times
+Tom,Don,1006,hard-times
+Don,Tom,1006,hard-times
+Bounderby,Harthouse,1007,hard-times
+Harthouse,Bounderby,1007,hard-times
+Tom,Mr. Harthouse,1008,hard-times
+Mr. Harthouse,Tom,1008,hard-times
+Mr. Bounderby,Mr. Harthouse,1011,hard-times
+Mr. Harthouse,Mr. Bounderby,1011,hard-times
+Mr.,James Harthouse,1020,hard-times
+Mr.,Tom,1020,hard-times
+James Harthouse,Mr.,1020,hard-times
+James Harthouse,Tom,1020,hard-times
+Tom,Mr.,1020,hard-times
+Tom,James Harthouse,1020,hard-times
+Tom,Mr. Harthouse,1021,hard-times
+Mr. Harthouse,Tom,1021,hard-times
+Mr. Harthouse,Tom,1021,hard-times
+Tom,Mr. Harthouse,1021,hard-times
+Mr.,James Harthouse,1024,hard-times
+Mr.,Tom,1024,hard-times
+James Harthouse,Mr.,1024,hard-times
+James Harthouse,Tom,1024,hard-times
+Tom,Mr.,1024,hard-times
+Tom,James Harthouse,1024,hard-times
+Tom,Mr. James Harthouse,1027,hard-times
+Mr. James Harthouse,Tom,1027,hard-times
+Don,James,1030,hard-times
+James,Don,1030,hard-times
+Tom,Loo,1031,hard-times
+Loo,Tom,1031,hard-times
+James,Harthouse,1032,hard-times
+Harthouse,James,1032,hard-times
+Loo,Tom,1033,hard-times
+Tom,Loo,1033,hard-times
+Tom,Mr. James Harthouse,1034,hard-times
+Mr. James Harthouse,Tom,1034,hard-times
+Tom,Mr. Harthouse,1037,hard-times
+Mr. Harthouse,Tom,1037,hard-times
+Mr. Harthouse,Tom,1040,hard-times
+Mr. Harthouse,Loo,1040,hard-times
+Tom,Mr. Harthouse,1040,hard-times
+Tom,Loo,1040,hard-times
+Loo,Mr. Harthouse,1040,hard-times
+Loo,Tom,1040,hard-times
+Tom,Loo,1048,hard-times
+Loo,Tom,1048,hard-times
+Tom,Mr. Harthouse,1054,hard-times
+Mr. Harthouse,Tom,1054,hard-times
+Mr. Bounderby,Mr. James Harthouse,1059,hard-times
+Mr. James Harthouse,Mr. Bounderby,1059,hard-times
+Mother Sparsit,Tom,1060,hard-times
+Tom,Mother Sparsit,1060,hard-times
+Mother Sparsit,Tom,1062,hard-times
+Mother Sparsit,Sparsit,1062,hard-times
+Tom,Mother Sparsit,1062,hard-times
+Tom,Sparsit,1062,hard-times
+Sparsit,Mother Sparsit,1062,hard-times
+Sparsit,Tom,1062,hard-times
+Nature,Strange,1073,hard-times
+Strange,Nature,1073,hard-times
+Freedom,Right,1076,hard-times
+Right,Freedom,1076,hard-times
+Slackbridge,Which,1077,hard-times
+Which,Slackbridge,1077,hard-times
+Slackbridge,Judas Iscariot,1079,hard-times
+Slackbridge,Castlereagh,1079,hard-times
+Judas Iscariot,Slackbridge,1079,hard-times
+Judas Iscariot,Castlereagh,1079,hard-times
+Castlereagh,Slackbridge,1079,hard-times
+Castlereagh,Judas Iscariot,1079,hard-times
+Stephen,Strike,1092,hard-times
+Strike,Stephen,1092,hard-times
+Stephen Blackpool,Stephen,1103,hard-times
+Stephen,Stephen Blackpool,1103,hard-times
+Stephen,Bounderby,1116,hard-times
+Bounderby,Stephen,1116,hard-times
+Mr. Bounderby,Stephen,1117,hard-times
+Stephen,Mr. Bounderby,1117,hard-times
+Stephen,Haply,1128,hard-times
+Haply,Stephen,1128,hard-times
+Mr. Bounderby,Pray,1130,hard-times
+Mr. Bounderby,Mr. Blackpool,1130,hard-times
+Pray,Mr. Bounderby,1130,hard-times
+Pray,Mr. Blackpool,1130,hard-times
+Mr. Blackpool,Mr. Bounderby,1130,hard-times
+Mr. Blackpool,Pray,1130,hard-times
+Bounderby,Josiah Bounderby,1136,hard-times
+Bounderby,Coketown,1136,hard-times
+Josiah Bounderby,Bounderby,1136,hard-times
+Josiah Bounderby,Coketown,1136,hard-times
+Coketown,Bounderby,1136,hard-times
+Coketown,Josiah Bounderby,1136,hard-times
+Mr. Bounderby,Mr. Harthouse,1138,hard-times
+Mr. Harthouse,Mr. Bounderby,1138,hard-times
+Mr. Harthouse,Mr. Bounderby,1138,hard-times
+Mr. Bounderby,Mr. Harthouse,1138,hard-times
+Nay,Stephen Blackpool,1139,hard-times
+Nay,God,1139,hard-times
+Stephen Blackpool,Nay,1139,hard-times
+Stephen Blackpool,God,1139,hard-times
+God,Nay,1139,hard-times
+God,Stephen Blackpool,1139,hard-times
+Mr. Bounderby,Mr. James Harthouse,1146,hard-times
+Mr. James Harthouse,Mr. Bounderby,1146,hard-times
+Stephen,Mr. Bounderby,1147,hard-times
+Mr. Bounderby,Stephen,1147,hard-times
+Sir,Death,1152,hard-times
+Death,Sir,1152,hard-times
+Don,Mr. Bounderby,1157,hard-times
+Mr. Bounderby,Don,1157,hard-times
+Sir,Stephen,1158,hard-times
+Sir,Stephen,1158,hard-times
+Sir,Tis,1158,hard-times
+Sir,Tis,1158,hard-times
+Stephen,Sir,1158,hard-times
+Stephen,Tis,1158,hard-times
+Stephen,Tis,1158,hard-times
+Stephen,Sir,1158,hard-times
+Stephen,Tis,1158,hard-times
+Stephen,Tis,1158,hard-times
+Tis,Sir,1158,hard-times
+Tis,Stephen,1158,hard-times
+Tis,Stephen,1158,hard-times
+Tis,Sir,1158,hard-times
+Tis,Stephen,1158,hard-times
+Tis,Stephen,1158,hard-times
+Sir,Vict,1160,hard-times
+Sir,God,1160,hard-times
+Vict,Sir,1160,hard-times
+Vict,God,1160,hard-times
+God,Sir,1160,hard-times
+God,Vict,1160,hard-times
+Mr. Bounderby,_I_,1166,hard-times
+_I_,Mr. Bounderby,1166,hard-times
+Sir,Stephen,1169,hard-times
+Stephen,Sir,1169,hard-times
+Stephen,Mr. Bounderby,1174,hard-times
+Mr. Bounderby,Stephen,1174,hard-times
+Rachael,Stephen,1178,hard-times
+Stephen,Rachael,1178,hard-times
+Coffee House,Mr. Bounderby,1179,hard-times
+Coffee House,Stephen,1179,hard-times
+Mr. Bounderby,Coffee House,1179,hard-times
+Mr. Bounderby,Stephen,1179,hard-times
+Stephen,Coffee House,1179,hard-times
+Stephen,Mr. Bounderby,1179,hard-times
+Aye,Stephen,1183,hard-times
+Stephen,Aye,1183,hard-times
+Stephen,Rachael,1186,hard-times
+Rachael,Stephen,1186,hard-times
+Herein,Mr. Bounderby,1190,hard-times
+Mr. Bounderby,Herein,1190,hard-times
+Stephen,Rachael,1193,hard-times
+Rachael,Stephen,1193,hard-times
+Pegler,Stephen,1199,hard-times
+Pegler,Stephen,1199,hard-times
+Stephen,Pegler,1199,hard-times
+Stephen,Pegler,1199,hard-times
+Stephen,Pegler,1205,hard-times
+Pegler,Stephen,1205,hard-times
+Don,Pray,1206,hard-times
+Don,Rachael,1206,hard-times
+Don,Pray,1206,hard-times
+Don,Rachael,1206,hard-times
+Pray,Don,1206,hard-times
+Pray,Don,1206,hard-times
+Pray,Rachael,1206,hard-times
+Rachael,Don,1206,hard-times
+Rachael,Don,1206,hard-times
+Rachael,Pray,1206,hard-times
+Stephen,Tisn,1207,hard-times
+Stephen,Mr. Bounderby,1207,hard-times
+Stephen,Yo,1207,hard-times
+Tisn,Stephen,1207,hard-times
+Tisn,Mr. Bounderby,1207,hard-times
+Tisn,Yo,1207,hard-times
+Mr. Bounderby,Stephen,1207,hard-times
+Mr. Bounderby,Tisn,1207,hard-times
+Mr. Bounderby,Yo,1207,hard-times
+Yo,Stephen,1207,hard-times
+Yo,Tisn,1207,hard-times
+Yo,Mr. Bounderby,1207,hard-times
+Stephen,Louisa,1211,hard-times
+Louisa,Stephen,1211,hard-times
+Weel,Stephen,1233,hard-times
+Stephen,Weel,1233,hard-times
+Stephen,Twill,1240,hard-times
+Twill,Stephen,1240,hard-times
+Loo,Blackpool,1243,hard-times
+Loo,Tom,1243,hard-times
+Blackpool,Loo,1243,hard-times
+Blackpool,Tom,1243,hard-times
+Tom,Loo,1243,hard-times
+Tom,Blackpool,1243,hard-times
+Stephen,Tom,1244,hard-times
+Tom,Stephen,1244,hard-times
+Tom,Don,1253,hard-times
+Don,Tom,1253,hard-times
+Tom,Loo,1256,hard-times
+Loo,Tom,1256,hard-times
+Pegler,Stephen,1258,hard-times
+Pegler,Stephen,1258,hard-times
+Pegler,Rachael,1258,hard-times
+Pegler,Coffee House,1258,hard-times
+Stephen,Pegler,1258,hard-times
+Stephen,Pegler,1258,hard-times
+Stephen,Rachael,1258,hard-times
+Stephen,Coffee House,1258,hard-times
+Pegler,Stephen,1258,hard-times
+Pegler,Stephen,1258,hard-times
+Pegler,Rachael,1258,hard-times
+Pegler,Coffee House,1258,hard-times
+Stephen,Pegler,1258,hard-times
+Stephen,Pegler,1258,hard-times
+Stephen,Rachael,1258,hard-times
+Stephen,Coffee House,1258,hard-times
+Rachael,Pegler,1258,hard-times
+Rachael,Stephen,1258,hard-times
+Rachael,Pegler,1258,hard-times
+Rachael,Stephen,1258,hard-times
+Rachael,Coffee House,1258,hard-times
+Coffee House,Pegler,1258,hard-times
+Coffee House,Stephen,1258,hard-times
+Coffee House,Pegler,1258,hard-times
+Coffee House,Stephen,1258,hard-times
+Coffee House,Rachael,1258,hard-times
+Stephen,Thou,1268,hard-times
+Stephen,Thou,1268,hard-times
+Stephen,Bless,1268,hard-times
+Thou,Stephen,1268,hard-times
+Thou,Bless,1268,hard-times
+Thou,Stephen,1268,hard-times
+Thou,Bless,1268,hard-times
+Bless,Stephen,1268,hard-times
+Bless,Thou,1268,hard-times
+Bless,Thou,1268,hard-times
+Mr. Bounderby,Stephen,1272,hard-times
+Stephen,Mr. Bounderby,1272,hard-times
+Sparsit,Stephen,1274,hard-times
+Stephen,Sparsit,1274,hard-times
+Rachael,Stephen,1277,hard-times
+Stephen,Rachael,1277,hard-times
+James Harthouse,Thomas Gradgrind,1284,hard-times
+Thomas Gradgrind,James Harthouse,1284,hard-times
+Mr. Harthouse,Mr. Bounderby,1286,hard-times
+Mr. Harthouse,Mr. Bounderby,1286,hard-times
+Mr. Harthouse,Tom Gradgrind,1286,hard-times
+Mr. Bounderby,Mr. Harthouse,1286,hard-times
+Mr. Bounderby,Tom Gradgrind,1286,hard-times
+Mr. Bounderby,Mr. Harthouse,1286,hard-times
+Mr. Bounderby,Tom Gradgrind,1286,hard-times
+Tom Gradgrind,Mr. Harthouse,1286,hard-times
+Tom Gradgrind,Mr. Bounderby,1286,hard-times
+Tom Gradgrind,Mr. Bounderby,1286,hard-times
+Mr.,James Harthouse,1287,hard-times
+James Harthouse,Mr.,1287,hard-times
+Mr.,Bounderby,1289,hard-times
+Mr.,Mr. Bounderby,1289,hard-times
+Bounderby,Mr.,1289,hard-times
+Bounderby,Mr. Bounderby,1289,hard-times
+Mr. Bounderby,Mr.,1289,hard-times
+Mr. Bounderby,Bounderby,1289,hard-times
+Mr. Bounderby,Nickits,1290,hard-times
+Mr. Bounderby,George,1290,hard-times
+Mr. Bounderby,Josiah Bounderby,1290,hard-times
+Nickits,Mr. Bounderby,1290,hard-times
+Nickits,George,1290,hard-times
+Nickits,Josiah Bounderby,1290,hard-times
+George,Mr. Bounderby,1290,hard-times
+George,Nickits,1290,hard-times
+George,Josiah Bounderby,1290,hard-times
+Josiah Bounderby,Mr. Bounderby,1290,hard-times
+Josiah Bounderby,Nickits,1290,hard-times
+Josiah Bounderby,George,1290,hard-times
+Nickits,Scholar,1292,hard-times
+Nickits,Josiah Bounderby,1292,hard-times
+Scholar,Nickits,1292,hard-times
+Scholar,Josiah Bounderby,1292,hard-times
+Scholar,Nickits,1292,hard-times
+Josiah Bounderby,Nickits,1292,hard-times
+Josiah Bounderby,Scholar,1292,hard-times
+Josiah Bounderby,Nickits,1292,hard-times
+Nickits,Scholar,1292,hard-times
+Nickits,Josiah Bounderby,1292,hard-times
+Bounderby,Harthouse,1323,hard-times
+Bounderby,Tom,1323,hard-times
+Harthouse,Bounderby,1323,hard-times
+Harthouse,Tom,1323,hard-times
+Tom,Bounderby,1323,hard-times
+Tom,Harthouse,1323,hard-times
+Bounderby,Mr. Gradgrind,1330,hard-times
+Bounderby,Mr. Bounderby,1330,hard-times
+Bounderby,Mr. Bounderby,1330,hard-times
+Mr. Gradgrind,Bounderby,1330,hard-times
+Mr. Gradgrind,Mr. Bounderby,1330,hard-times
+Mr. Gradgrind,Mr. Bounderby,1330,hard-times
+Mr. Bounderby,Bounderby,1330,hard-times
+Mr. Bounderby,Mr. Gradgrind,1330,hard-times
+Mr. Bounderby,Bounderby,1330,hard-times
+Mr. Bounderby,Mr. Gradgrind,1330,hard-times
+Mr. Harthouse,Pray,1335,hard-times
+Pray,Mr. Harthouse,1335,hard-times
+Tom,Mr. Harthouse,1341,hard-times
+Mr. Harthouse,Tom,1341,hard-times
+Mr. Harthouse,Tom Gradgrind,1344,hard-times
+Tom Gradgrind,Mr. Harthouse,1344,hard-times
+Tom,Louisa,1348,hard-times
+Louisa,Tom,1348,hard-times
+Tom,Mr. Harthouse,1350,hard-times
+Tom,Don,1350,hard-times
+Mr. Harthouse,Tom,1350,hard-times
+Mr. Harthouse,Don,1350,hard-times
+Don,Tom,1350,hard-times
+Don,Mr. Harthouse,1350,hard-times
+Mr. Harthouse,Tom,1351,hard-times
+Tom,Mr. Harthouse,1351,hard-times
+Mr. Bounderby,Nickits,1354,hard-times
+Mr. Bounderby,Tom,1354,hard-times
+Mr. Bounderby,Familiar,1354,hard-times
+Nickits,Mr. Bounderby,1354,hard-times
+Nickits,Tom,1354,hard-times
+Nickits,Familiar,1354,hard-times
+Tom,Mr. Bounderby,1354,hard-times
+Tom,Nickits,1354,hard-times
+Tom,Familiar,1354,hard-times
+Familiar,Mr. Bounderby,1354,hard-times
+Familiar,Nickits,1354,hard-times
+Familiar,Tom,1354,hard-times
+Mr. Harthouse,Tom,1356,hard-times
+Tom,Mr. Harthouse,1356,hard-times
+Tom,Mr. Harthouse,1358,hard-times
+Mr. Harthouse,Tom,1358,hard-times
+Mr. James Harthouse,Mr. Thomas Gradgrind,1365,hard-times
+Mr. James Harthouse,Coketown,1365,hard-times
+Mr. Thomas Gradgrind,Mr. James Harthouse,1365,hard-times
+Mr. Thomas Gradgrind,Coketown,1365,hard-times
+Coketown,Mr. James Harthouse,1365,hard-times
+Coketown,Mr. Thomas Gradgrind,1365,hard-times
+Tom,Harthouse,1366,hard-times
+Harthouse,Tom,1366,hard-times
+God,Tom,1367,hard-times
+Tom,God,1367,hard-times
+Harthouse,Tom,1370,hard-times
+Tom,Harthouse,1370,hard-times
+Whelp,Mr. Harthouse,1371,hard-times
+Mr. Harthouse,Whelp,1371,hard-times
+Tom,Mr. Harthouse,1372,hard-times
+Mr. Harthouse,Tom,1372,hard-times
+Tom,Mr. Harthouse,1374,hard-times
+Mr. Harthouse,Tom,1374,hard-times
+Tom,Mr. Harthouse,1375,hard-times
+Mr. Harthouse,Tom,1375,hard-times
+Tom,Harthouse,1379,hard-times
+Harthouse,Tom,1379,hard-times
+Tom,Mr. Bounderby,1380,hard-times
+Tom,Loo,1380,hard-times
+Mr. Bounderby,Tom,1380,hard-times
+Mr. Bounderby,Loo,1380,hard-times
+Loo,Tom,1380,hard-times
+Loo,Mr. Bounderby,1380,hard-times
+Louisa,Alas,1381,hard-times
+Alas,Louisa,1381,hard-times
+Nickits,Mr. Bounderby,1391,hard-times
+Mr. Bounderby,Nickits,1391,hard-times
+Harthouse,Mr. Bounderby,1392,hard-times
+Mr. Bounderby,Harthouse,1392,hard-times
+Heard,Harthouse,1393,hard-times
+Heard,Mr. Bounderby,1393,hard-times
+Harthouse,Heard,1393,hard-times
+Harthouse,Mr. Bounderby,1393,hard-times
+Mr. Bounderby,Heard,1393,hard-times
+Mr. Bounderby,Harthouse,1393,hard-times
+George,Mr. Bounderby,1407,hard-times
+Mr. Bounderby,George,1407,hard-times
+Tom Gradgrind,Bounderby,1409,hard-times
+Bounderby,Tom Gradgrind,1409,hard-times
+Mr. Harthouse,Bitzer,1413,hard-times
+Bitzer,Mr. Harthouse,1413,hard-times
+Bitzer,Mr. Bounderby,1417,hard-times
+Mr. Bounderby,Bitzer,1417,hard-times
+Mr. Bounderby,Tom,1418,hard-times
+Mr. Bounderby,Sparsit,1418,hard-times
+Tom,Mr. Bounderby,1418,hard-times
+Tom,Sparsit,1418,hard-times
+Sparsit,Mr. Bounderby,1418,hard-times
+Sparsit,Tom,1418,hard-times
+Sir,Bitzer,1419,hard-times
+Bitzer,Sir,1419,hard-times
+Bounderby,Tom,1420,hard-times
+Tom,Bounderby,1420,hard-times
+Tom,Harthouse,1421,hard-times
+Harthouse,Tom,1421,hard-times
+Bounderby,Josiah Bounderby,1424,hard-times
+Josiah Bounderby,Bounderby,1424,hard-times
+Might,Mr. Harthouse,1425,hard-times
+Might,Who,1425,hard-times
+Mr. Harthouse,Might,1425,hard-times
+Mr. Harthouse,Who,1425,hard-times
+Who,Might,1425,hard-times
+Who,Mr. Harthouse,1425,hard-times
+Bounderby,Mr. Bounderby,1426,hard-times
+Mr. Bounderby,Bounderby,1426,hard-times
+Harthouse,Blackpot,1427,hard-times
+Blackpot,Harthouse,1427,hard-times
+Say Pool,Bounderby,1428,hard-times
+Bounderby,Say Pool,1428,hard-times
+Bounderby,Church,1432,hard-times
+Church,Bounderby,1432,hard-times
+Mr.,Bounderby,1436,hard-times
+Mr.,Mr. Harthouse,1436,hard-times
+Bounderby,Mr.,1436,hard-times
+Bounderby,Mr. Harthouse,1436,hard-times
+Mr. Harthouse,Mr.,1436,hard-times
+Mr. Harthouse,Bounderby,1436,hard-times
+Mr. Bounderby,Bitzer,1437,hard-times
+Bitzer,Mr. Bounderby,1437,hard-times
+Bitzer,Mr. Bounderby,1437,hard-times
+Mr. Bounderby,Bitzer,1437,hard-times
+Suspicious,James Harthouse,1438,hard-times
+James Harthouse,Suspicious,1438,hard-times
+James Harthouse,Banks,1442,hard-times
+James Harthouse,Louisa,1442,hard-times
+Banks,James Harthouse,1442,hard-times
+Banks,Louisa,1442,hard-times
+Louisa,James Harthouse,1442,hard-times
+Louisa,Banks,1442,hard-times
+Sparsit,True,1445,hard-times
+Sparsit,Mr. Sparsit,1445,hard-times
+Sparsit,Mr. Bounderby,1445,hard-times
+Sparsit,Mr. Bounderby,1445,hard-times
+True,Sparsit,1445,hard-times
+True,Sparsit,1445,hard-times
+True,Mr. Sparsit,1445,hard-times
+True,Mr. Bounderby,1445,hard-times
+True,Mr. Bounderby,1445,hard-times
+Sparsit,True,1445,hard-times
+Sparsit,Mr. Sparsit,1445,hard-times
+Sparsit,Mr. Bounderby,1445,hard-times
+Sparsit,Mr. Bounderby,1445,hard-times
+Mr. Sparsit,Sparsit,1445,hard-times
+Mr. Sparsit,True,1445,hard-times
+Mr. Sparsit,Sparsit,1445,hard-times
+Mr. Sparsit,Mr. Bounderby,1445,hard-times
+Mr. Sparsit,Mr. Bounderby,1445,hard-times
+Mr. Bounderby,Sparsit,1445,hard-times
+Mr. Bounderby,True,1445,hard-times
+Mr. Bounderby,Sparsit,1445,hard-times
+Mr. Bounderby,Mr. Sparsit,1445,hard-times
+Mr. Bounderby,Sparsit,1445,hard-times
+Mr. Bounderby,True,1445,hard-times
+Mr. Bounderby,Sparsit,1445,hard-times
+Mr. Bounderby,Mr. Sparsit,1445,hard-times
+Mr. Bounderby,Yorick,1446,hard-times
+Mr. Bounderby,Miss Gradgrind,1446,hard-times
+Yorick,Mr. Bounderby,1446,hard-times
+Yorick,Mr. Bounderby,1446,hard-times
+Yorick,Miss Gradgrind,1446,hard-times
+Mr. Bounderby,Yorick,1446,hard-times
+Mr. Bounderby,Miss Gradgrind,1446,hard-times
+Miss Gradgrind,Mr. Bounderby,1446,hard-times
+Miss Gradgrind,Yorick,1446,hard-times
+Miss Gradgrind,Mr. Bounderby,1446,hard-times
+Mr. Bounderby,Bitzer,1447,hard-times
+Mr. Bounderby,Tom,1447,hard-times
+Bitzer,Mr. Bounderby,1447,hard-times
+Bitzer,Tom,1447,hard-times
+Tom,Mr. Bounderby,1447,hard-times
+Tom,Bitzer,1447,hard-times
+Sparsit,Pray,1448,hard-times
+Sparsit,Mr. Bounderby,1448,hard-times
+Sparsit,Mr. Bounderby,1448,hard-times
+Sparsit,Miss Gradgrind,1448,hard-times
+Pray,Sparsit,1448,hard-times
+Pray,Mr. Bounderby,1448,hard-times
+Pray,Mr. Bounderby,1448,hard-times
+Pray,Miss Gradgrind,1448,hard-times
+Mr. Bounderby,Sparsit,1448,hard-times
+Mr. Bounderby,Pray,1448,hard-times
+Mr. Bounderby,Miss Gradgrind,1448,hard-times
+Mr. Bounderby,Sparsit,1448,hard-times
+Mr. Bounderby,Pray,1448,hard-times
+Mr. Bounderby,Miss Gradgrind,1448,hard-times
+Miss Gradgrind,Sparsit,1448,hard-times
+Miss Gradgrind,Pray,1448,hard-times
+Miss Gradgrind,Mr. Bounderby,1448,hard-times
+Miss Gradgrind,Mr. Bounderby,1448,hard-times
+Louisa,Mr. Harthouse,1449,hard-times
+Louisa,Mr. Bounderby,1449,hard-times
+Louisa,Mr. Bounderby,1449,hard-times
+Louisa,Mr. Bounderby,1449,hard-times
+Mr. Harthouse,Louisa,1449,hard-times
+Mr. Harthouse,Mr. Bounderby,1449,hard-times
+Mr. Harthouse,Mr. Bounderby,1449,hard-times
+Mr. Harthouse,Mr. Bounderby,1449,hard-times
+Mr. Bounderby,Louisa,1449,hard-times
+Mr. Bounderby,Mr. Harthouse,1449,hard-times
+Mr. Bounderby,Louisa,1449,hard-times
+Mr. Bounderby,Mr. Harthouse,1449,hard-times
+Mr. Bounderby,Louisa,1449,hard-times
+Mr. Bounderby,Mr. Harthouse,1449,hard-times
+Mr. Bounderby,Cheer,1450,hard-times
+Mr. Bounderby,Miss Gradgrind,1450,hard-times
+Mr. Bounderby,Cheer,1450,hard-times
+Mr. Bounderby,Miss Gradgrind,1450,hard-times
+Cheer,Mr. Bounderby,1450,hard-times
+Cheer,Mr. Bounderby,1450,hard-times
+Cheer,Miss Gradgrind,1450,hard-times
+Miss Gradgrind,Mr. Bounderby,1450,hard-times
+Miss Gradgrind,Mr. Bounderby,1450,hard-times
+Miss Gradgrind,Cheer,1450,hard-times
+Miss,Mr. Bounderby,1451,hard-times
+Miss,Mr. Bounderby,1451,hard-times
+Miss,Mr. Bounderby,1451,hard-times
+Mr. Bounderby,Miss,1451,hard-times
+Mr. Bounderby,Miss,1451,hard-times
+Mr. Bounderby,Miss,1451,hard-times
+Good Heavens,Loo,1476,hard-times
+Loo,Good Heavens,1476,hard-times
+Miss Gradgrind,Mr. Bounderby,1506,hard-times
+Miss Gradgrind,Pray,1506,hard-times
+Mr. Bounderby,Miss Gradgrind,1506,hard-times
+Mr. Bounderby,Pray,1506,hard-times
+Pray,Miss Gradgrind,1506,hard-times
+Pray,Mr. Bounderby,1506,hard-times
+Mr. Bounderby,Sparsit,1507,hard-times
+Mr. Bounderby,Miss Gradgrind,1507,hard-times
+Mr. Bounderby,Sparsit,1507,hard-times
+Sparsit,Mr. Bounderby,1507,hard-times
+Sparsit,Miss Gradgrind,1507,hard-times
+Sparsit,Mr. Bounderby,1507,hard-times
+Miss Gradgrind,Mr. Bounderby,1507,hard-times
+Miss Gradgrind,Sparsit,1507,hard-times
+Miss Gradgrind,Mr. Bounderby,1507,hard-times
+Miss Gradgrind,Sparsit,1507,hard-times
+Mr. Bounderby,Sparsit,1507,hard-times
+Mr. Bounderby,Miss Gradgrind,1507,hard-times
+Mr. Bounderby,Sparsit,1507,hard-times
+Sparsit,Mr. Bounderby,1507,hard-times
+Sparsit,Miss Gradgrind,1507,hard-times
+Sparsit,Mr. Bounderby,1507,hard-times
+Louisa,Mr. Bounderby,1508,hard-times
+Louisa,Miss,1508,hard-times
+Louisa,Miss Gradgrind,1508,hard-times
+Louisa,Mr. Bounderby,1508,hard-times
+Mr. Bounderby,Louisa,1508,hard-times
+Mr. Bounderby,Miss,1508,hard-times
+Mr. Bounderby,Miss Gradgrind,1508,hard-times
+Miss,Louisa,1508,hard-times
+Miss,Mr. Bounderby,1508,hard-times
+Miss,Miss Gradgrind,1508,hard-times
+Miss,Mr. Bounderby,1508,hard-times
+Miss Gradgrind,Louisa,1508,hard-times
+Miss Gradgrind,Mr. Bounderby,1508,hard-times
+Miss Gradgrind,Miss,1508,hard-times
+Miss Gradgrind,Mr. Bounderby,1508,hard-times
+Mr. Bounderby,Louisa,1508,hard-times
+Mr. Bounderby,Miss,1508,hard-times
+Mr. Bounderby,Miss Gradgrind,1508,hard-times
+Loo,Mr. Bounderby,1511,hard-times
+Mr. Bounderby,Loo,1511,hard-times
+Mr. Bounderby,George,1513,hard-times
+Mr. Bounderby,Tom Gradgrind,1513,hard-times
+George,Mr. Bounderby,1513,hard-times
+George,Tom Gradgrind,1513,hard-times
+Tom Gradgrind,Mr. Bounderby,1513,hard-times
+Tom Gradgrind,George,1513,hard-times
+Mr. Bounderby,Otherwise,1517,hard-times
+Mr. Bounderby,Loo Bounderby,1517,hard-times
+Mr. Bounderby,Josiah Bounderby,1517,hard-times
+Otherwise,Mr. Bounderby,1517,hard-times
+Otherwise,Loo Bounderby,1517,hard-times
+Otherwise,Josiah Bounderby,1517,hard-times
+Loo Bounderby,Mr. Bounderby,1517,hard-times
+Loo Bounderby,Otherwise,1517,hard-times
+Loo Bounderby,Josiah Bounderby,1517,hard-times
+Josiah Bounderby,Mr. Bounderby,1517,hard-times
+Josiah Bounderby,Otherwise,1517,hard-times
+Josiah Bounderby,Loo Bounderby,1517,hard-times
+Mr. Harthouse,Louisa,1518,hard-times
+Louisa,Mr. Harthouse,1518,hard-times
+Mr. Harthouse,Mr. Bounderby,1519,hard-times
+Mr. Harthouse,Louisa,1519,hard-times
+Mr. Harthouse,James Harthouse,1519,hard-times
+Mr. Bounderby,Mr. Harthouse,1519,hard-times
+Mr. Bounderby,Louisa,1519,hard-times
+Mr. Bounderby,James Harthouse,1519,hard-times
+Louisa,Mr. Harthouse,1519,hard-times
+Louisa,Mr. Bounderby,1519,hard-times
+Louisa,James Harthouse,1519,hard-times
+James Harthouse,Mr. Harthouse,1519,hard-times
+James Harthouse,Mr. Bounderby,1519,hard-times
+James Harthouse,Louisa,1519,hard-times
+Sparsit,Mr. Bounderby,1520,hard-times
+Mr. Bounderby,Sparsit,1520,hard-times
+Mr.,Bounderby,1521,hard-times
+Mr.,Bitzer,1521,hard-times
+Mr.,Bitzer,1521,hard-times
+Mr.,Stone Lodge,1521,hard-times
+Mr.,Louisa,1521,hard-times
+Bounderby,Mr.,1521,hard-times
+Bounderby,Bitzer,1521,hard-times
+Bounderby,Bitzer,1521,hard-times
+Bounderby,Stone Lodge,1521,hard-times
+Bounderby,Louisa,1521,hard-times
+Bitzer,Mr.,1521,hard-times
+Bitzer,Bounderby,1521,hard-times
+Bitzer,Stone Lodge,1521,hard-times
+Bitzer,Louisa,1521,hard-times
+Bitzer,Mr.,1521,hard-times
+Bitzer,Bounderby,1521,hard-times
+Bitzer,Stone Lodge,1521,hard-times
+Bitzer,Louisa,1521,hard-times
+Stone Lodge,Mr.,1521,hard-times
+Stone Lodge,Bounderby,1521,hard-times
+Stone Lodge,Bitzer,1521,hard-times
+Stone Lodge,Bitzer,1521,hard-times
+Stone Lodge,Louisa,1521,hard-times
+Louisa,Mr.,1521,hard-times
+Louisa,Bounderby,1521,hard-times
+Louisa,Bitzer,1521,hard-times
+Louisa,Bitzer,1521,hard-times
+Louisa,Stone Lodge,1521,hard-times
+Louisa,Mr. Bounderby,1523,hard-times
+Mr. Bounderby,Louisa,1523,hard-times
+Adam,Reason,1524,hard-times
+Reason,Adam,1524,hard-times
+Sissy,Jane,1525,hard-times
+Sissy,Jane,1525,hard-times
+Jane,Sissy,1525,hard-times
+Jane,Sissy,1525,hard-times
+Bounderby,Louisa,1528,hard-times
+Louisa,Bounderby,1528,hard-times
+Louisa,Very,1531,hard-times
+Very,Louisa,1531,hard-times
+Louisa,Sissy,1536,hard-times
+Sissy,Louisa,1536,hard-times
+Sissy,Louisa,1539,hard-times
+Louisa,Sissy,1539,hard-times
+Louisa,Ology,1546,hard-times
+Ology,Louisa,1546,hard-times
+Louisa,Sissy,1548,hard-times
+Louisa,God,1548,hard-times
+Sissy,Louisa,1548,hard-times
+Sissy,God,1548,hard-times
+God,Louisa,1548,hard-times
+God,Sissy,1548,hard-times
+Mr. Bounderby,Sparsit,1553,hard-times
+Sparsit,Mr. Bounderby,1553,hard-times
+Sparsit,Mr. Bounderby,1553,hard-times
+Mr. Bounderby,Sparsit,1553,hard-times
+Mr. Bounderby,Sparsit,1554,hard-times
+Mr. Bounderby,Louisa,1554,hard-times
+Mr. Bounderby,Sparsit,1554,hard-times
+Sparsit,Mr. Bounderby,1554,hard-times
+Sparsit,Louisa,1554,hard-times
+Louisa,Mr. Bounderby,1554,hard-times
+Louisa,Sparsit,1554,hard-times
+Louisa,Sparsit,1554,hard-times
+Sparsit,Mr. Bounderby,1554,hard-times
+Sparsit,Louisa,1554,hard-times
+Sparsit,Louisa,1555,hard-times
+Louisa,Sparsit,1555,hard-times
+Mr. Bounderby,Sparsit,1557,hard-times
+Sparsit,Mr. Bounderby,1557,hard-times
+Bounderby,Romulus,1563,hard-times
+Bounderby,Remus,1563,hard-times
+Bounderby,Josiah Bounderby,1563,hard-times
+Romulus,Bounderby,1563,hard-times
+Romulus,Remus,1563,hard-times
+Romulus,Josiah Bounderby,1563,hard-times
+Remus,Bounderby,1563,hard-times
+Remus,Romulus,1563,hard-times
+Remus,Josiah Bounderby,1563,hard-times
+Josiah Bounderby,Bounderby,1563,hard-times
+Josiah Bounderby,Romulus,1563,hard-times
+Josiah Bounderby,Remus,1563,hard-times
+Bounderby,Tom,1565,hard-times
+Bounderby,_I_,1565,hard-times
+Tom,Bounderby,1565,hard-times
+Tom,_I_,1565,hard-times
+_I_,Bounderby,1565,hard-times
+_I_,Tom,1565,hard-times
+Mr. Harthouse,Sparsit,1569,hard-times
+Sparsit,Mr. Harthouse,1569,hard-times
+Louisa,Well,1579,hard-times
+Louisa,Mr. Bounderby—who,1579,hard-times
+Well,Louisa,1579,hard-times
+Well,Mr. Bounderby—who,1579,hard-times
+Mr. Bounderby—who,Louisa,1579,hard-times
+Mr. Bounderby—who,Well,1579,hard-times
+Sparsit,Louisa,1583,hard-times
+Sparsit,Louisa,1583,hard-times
+Louisa,Sparsit,1583,hard-times
+Louisa,Sparsit,1583,hard-times
+Sparsit,James Harthouse,1585,hard-times
+James Harthouse,Sparsit,1585,hard-times
+Mr. Bounderby,Sparsit,1586,hard-times
+Mr. Bounderby,Eager,1586,hard-times
+Sparsit,Mr. Bounderby,1586,hard-times
+Sparsit,Eager,1586,hard-times
+Eager,Mr. Bounderby,1586,hard-times
+Eager,Sparsit,1586,hard-times
+Sparsit,Coketown,1591,hard-times
+Sparsit,James Harthouse,1591,hard-times
+Coketown,Sparsit,1591,hard-times
+Coketown,James Harthouse,1591,hard-times
+James Harthouse,Sparsit,1591,hard-times
+James Harthouse,Coketown,1591,hard-times
+Louisa,Mr. James Harthouse,1592,hard-times
+Mr. James Harthouse,Louisa,1592,hard-times
+Bounderby,Miss Gradgrind,1596,hard-times
+Miss Gradgrind,Bounderby,1596,hard-times
+Mr. Thomas,Young Mr. Thomas,1602,hard-times
+Mr. Thomas,Thomas,1602,hard-times
+Young Mr. Thomas,Mr. Thomas,1602,hard-times
+Young Mr. Thomas,Thomas,1602,hard-times
+Thomas,Mr. Thomas,1602,hard-times
+Thomas,Young Mr. Thomas,1602,hard-times
+Mr. Harthouse,Mr. Tom,1604,hard-times
+Mr. Tom,Mr. Harthouse,1604,hard-times
+Harthouse,Mr. Tom,1611,hard-times
+Mr. Tom,Harthouse,1611,hard-times
+Which,Mr. Tom,1615,hard-times
+Mr. Tom,Which,1615,hard-times
+Tom,Loo,1618,hard-times
+Loo,Tom,1618,hard-times
+Tom,Mr. Harthouse,1621,hard-times
+Mr. Harthouse,Tom,1621,hard-times
+Mr. Harthouse,Tom,1621,hard-times
+Tom,Mr. Harthouse,1621,hard-times
+Sparsit,Robinson Crusoe,1630,hard-times
+Robinson Crusoe,Sparsit,1630,hard-times
+Harthouse,Sparsit,1634,hard-times
+Sparsit,Harthouse,1634,hard-times
+Louisa,Hastily,1648,hard-times
+Hastily,Louisa,1648,hard-times
+Sparsit,Coketown,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Sparsit,Coketown,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Coketown,Sparsit,1650,hard-times
+Louisa,Sparsit,1651,hard-times
+Sparsit,Louisa,1651,hard-times
+Fire,Louisa,1652,hard-times
+Fire,Sparsit,1652,hard-times
+Louisa,Fire,1652,hard-times
+Louisa,Sparsit,1652,hard-times
+Sparsit,Fire,1652,hard-times
+Sparsit,Louisa,1652,hard-times
+Sparsit,Louisa,1655,hard-times
+Louisa,Sparsit,1655,hard-times
+Louisa,Sparsit,1655,hard-times
+Louisa,Sparsit,1655,hard-times
+Sparsit,Louisa,1655,hard-times
+Sparsit,Louisa,1655,hard-times
+Jane,Louisa,1715,hard-times
+Louisa,Jane,1715,hard-times
+Mr. Gradgrind,Louisa,1731,hard-times
+Louisa,Mr. Gradgrind,1731,hard-times
+Louisa,Sissy,1743,hard-times
+Sissy,Louisa,1743,hard-times
+Mr. Bounderby,Left,1770,hard-times
+Left,Mr. Bounderby,1770,hard-times
+Where,Tom,1774,hard-times
+Where,Mr. Harthouse,1774,hard-times
+Where,_I_,1774,hard-times
+Tom,Where,1774,hard-times
+Tom,Mr. Harthouse,1774,hard-times
+Tom,_I_,1774,hard-times
+Mr. Harthouse,Where,1774,hard-times
+Mr. Harthouse,Tom,1774,hard-times
+Mr. Harthouse,_I_,1774,hard-times
+_I_,Where,1774,hard-times
+_I_,Tom,1774,hard-times
+_I_,Mr. Harthouse,1774,hard-times
+Mr. James Harthouse,Bounderby,1782,hard-times
+Bounderby,Mr. James Harthouse,1782,hard-times
+Mr.,Harthouse,1805,hard-times
+Harthouse,Mr.,1805,hard-times
+James,Harthouse,1813,hard-times
+Harthouse,James,1813,hard-times
+Harthouse,Sissy,1825,hard-times
+Sissy,Harthouse,1825,hard-times
+Sissy,Mr. Gradgrind,1843,hard-times
+Mr. Gradgrind,Sissy,1843,hard-times
+Mr. James Harthouse,James Harthouse,1845,hard-times
+Mr. James Harthouse,James Harthouse,1845,hard-times
+James Harthouse,Mr. James Harthouse,1845,hard-times
+James Harthouse,Mr. James Harthouse,1845,hard-times
+Mr. Bounderby,Mr. Gradgrind,1853,hard-times
+Mr. Bounderby,Almost,1853,hard-times
+Mr. Gradgrind,Mr. Bounderby,1853,hard-times
+Mr. Gradgrind,Almost,1853,hard-times
+Almost,Mr. Bounderby,1853,hard-times
+Almost,Mr. Gradgrind,1853,hard-times
+James,Mr. Bounderby,1857,hard-times
+Mr. Bounderby,James,1857,hard-times
+Mr.,Bounderby,1858,hard-times
+Bounderby,Mr.,1858,hard-times
+Sparsit,Mr. Bounderby,1859,hard-times
+Sparsit,Stone Lodge,1859,hard-times
+Mr. Bounderby,Sparsit,1859,hard-times
+Mr. Bounderby,Stone Lodge,1859,hard-times
+Stone Lodge,Sparsit,1859,hard-times
+Stone Lodge,Mr. Bounderby,1859,hard-times
+Tom Gradgrind,Bounderby,1860,hard-times
+Bounderby,Tom Gradgrind,1860,hard-times
+Bounderby,Josiah Bounderby,1862,hard-times
+Josiah Bounderby,Bounderby,1862,hard-times
+Bounderby,Mr. Gradgrind,1863,hard-times
+Mr. Gradgrind,Bounderby,1863,hard-times
+Tom Gradgrind,Bounderby,1864,hard-times
+Bounderby,Tom Gradgrind,1864,hard-times
+Bounderby,Tom Gradgrind,1866,hard-times
+Bounderby,Mr. James Harthouse,1866,hard-times
+Tom Gradgrind,Bounderby,1866,hard-times
+Tom Gradgrind,Mr. James Harthouse,1866,hard-times
+Mr. James Harthouse,Bounderby,1866,hard-times
+Mr. James Harthouse,Tom Gradgrind,1866,hard-times
+Mr.,Bounderby,1874,hard-times
+Mr.,Lady Scadgers,1874,hard-times
+Bounderby,Mr.,1874,hard-times
+Bounderby,Lady Scadgers,1874,hard-times
+Lady Scadgers,Mr.,1874,hard-times
+Lady Scadgers,Bounderby,1874,hard-times
+Bounderby,Mr. Bounderby,1877,hard-times
+Mr. Bounderby,Bounderby,1877,hard-times
+Tom Gradgrind,Josiah Bounderby,1878,hard-times
+Josiah Bounderby,Tom Gradgrind,1878,hard-times
+Mr. Gradgrind,Mr. Bounderby,1879,hard-times
+Mr. Bounderby,Mr. Gradgrind,1879,hard-times
+Bounderby,Mr. Gradgrind,1882,hard-times
+Mr. Gradgrind,Bounderby,1882,hard-times
+Mr. Gradgrind,Bounderby,1892,hard-times
+Bounderby,Mr. Gradgrind,1892,hard-times
+Mr. Gradgrind,Louisa,1894,hard-times
+Mr. Gradgrind,Louisa,1894,hard-times
+Louisa,Mr. Gradgrind,1894,hard-times
+Louisa,Mr. Gradgrind,1894,hard-times
+Louisa,Mr. Gradgrind,1894,hard-times
+Louisa,Mr. Gradgrind,1894,hard-times
+Mr. Gradgrind,Louisa,1894,hard-times
+Mr. Gradgrind,Louisa,1894,hard-times
+Louisa,Cecilia Jupe,1897,hard-times
+Cecilia Jupe,Louisa,1897,hard-times
+Tom Gradgrind,Bounderby,1898,hard-times
+Tom Gradgrind,Loo Bounderby,1898,hard-times
+Bounderby,Tom Gradgrind,1898,hard-times
+Bounderby,Loo Bounderby,1898,hard-times
+Loo Bounderby,Tom Gradgrind,1898,hard-times
+Loo Bounderby,Bounderby,1898,hard-times
+Tom Gradgrind,Bounderby,1900,hard-times
+Tom Gradgrind,Josiah Bounderby,1900,hard-times
+Bounderby,Tom Gradgrind,1900,hard-times
+Bounderby,Josiah Bounderby,1900,hard-times
+Bounderby,Tom Gradgrind,1900,hard-times
+Josiah Bounderby,Tom Gradgrind,1900,hard-times
+Josiah Bounderby,Bounderby,1900,hard-times
+Josiah Bounderby,Tom Gradgrind,1900,hard-times
+Tom Gradgrind,Bounderby,1900,hard-times
+Tom Gradgrind,Josiah Bounderby,1900,hard-times
+Bounderby,Mr. Gradgrind,1901,hard-times
+Mr. Gradgrind,Bounderby,1901,hard-times
+Don,Tom Gradgrind,1902,hard-times
+Don,George,1902,hard-times
+Tom Gradgrind,Don,1902,hard-times
+Tom Gradgrind,George,1902,hard-times
+George,Don,1902,hard-times
+George,Tom Gradgrind,1902,hard-times
+Bounderby,Mr. Gradgrind,1903,hard-times
+Mr. Gradgrind,Bounderby,1903,hard-times
+Bounderby,Tom Gradgrind,1904,hard-times
+Tom Gradgrind,Bounderby,1904,hard-times
+Bounderby,Tom Gradgrind,1906,hard-times
+Tom Gradgrind,Bounderby,1906,hard-times
+Bounderby,Mr. Gradgrind,1909,hard-times
+Mr. Gradgrind,Bounderby,1909,hard-times
+Louisa,Bounderby,1917,hard-times
+Bounderby,Louisa,1917,hard-times
+Mr.,Bounderby,1918,hard-times
+Mr.,Stephen Blackpool,1918,hard-times
+Bounderby,Mr.,1918,hard-times
+Bounderby,Stephen Blackpool,1918,hard-times
+Stephen Blackpool,Mr.,1918,hard-times
+Stephen Blackpool,Bounderby,1918,hard-times
+Bounderby,Louisa,1920,hard-times
+Louisa,Bounderby,1920,hard-times
+Bounderby,Tom Gradgrind,1921,hard-times
+Bounderby,Loo Bounderby,1921,hard-times
+Bounderby,Loo Gradgrind,1921,hard-times
+Bounderby,Josiah Bounderby,1921,hard-times
+Bounderby,Tom Gradgrind,1921,hard-times
+Tom Gradgrind,Bounderby,1921,hard-times
+Tom Gradgrind,Loo Bounderby,1921,hard-times
+Tom Gradgrind,Loo Gradgrind,1921,hard-times
+Tom Gradgrind,Josiah Bounderby,1921,hard-times
+Loo Bounderby,Bounderby,1921,hard-times
+Loo Bounderby,Tom Gradgrind,1921,hard-times
+Loo Bounderby,Loo Gradgrind,1921,hard-times
+Loo Bounderby,Josiah Bounderby,1921,hard-times
+Loo Bounderby,Tom Gradgrind,1921,hard-times
+Loo Gradgrind,Bounderby,1921,hard-times
+Loo Gradgrind,Tom Gradgrind,1921,hard-times
+Loo Gradgrind,Loo Bounderby,1921,hard-times
+Loo Gradgrind,Josiah Bounderby,1921,hard-times
+Loo Gradgrind,Tom Gradgrind,1921,hard-times
+Josiah Bounderby,Bounderby,1921,hard-times
+Josiah Bounderby,Tom Gradgrind,1921,hard-times
+Josiah Bounderby,Loo Bounderby,1921,hard-times
+Josiah Bounderby,Loo Gradgrind,1921,hard-times
+Josiah Bounderby,Tom Gradgrind,1921,hard-times
+Tom Gradgrind,Bounderby,1921,hard-times
+Tom Gradgrind,Loo Bounderby,1921,hard-times
+Tom Gradgrind,Loo Gradgrind,1921,hard-times
+Tom Gradgrind,Josiah Bounderby,1921,hard-times
+Bounderby,Mr. Gradgrind,1922,hard-times
+Mr. Gradgrind,Bounderby,1922,hard-times
+Bounderby,Josiah Bounderby,1923,hard-times
+Bounderby,Tom Gradgrind,1923,hard-times
+Josiah Bounderby,Bounderby,1923,hard-times
+Josiah Bounderby,Tom Gradgrind,1923,hard-times
+Tom Gradgrind,Bounderby,1923,hard-times
+Tom Gradgrind,Josiah Bounderby,1923,hard-times
+Mr. Bounderby,Tom Gradgrind,1924,hard-times
+Tom Gradgrind,Mr. Bounderby,1924,hard-times
+Mr. Bounderby,Twenty Pounds,1929,hard-times
+Mr. Bounderby,Stephen Blackpool,1929,hard-times
+Mr. Bounderby,Stephen Blackpool,1929,hard-times
+Twenty Pounds,Mr. Bounderby,1929,hard-times
+Twenty Pounds,Stephen Blackpool,1929,hard-times
+Twenty Pounds,Stephen Blackpool,1929,hard-times
+Stephen Blackpool,Mr. Bounderby,1929,hard-times
+Stephen Blackpool,Twenty Pounds,1929,hard-times
+Stephen Blackpool,Mr. Bounderby,1929,hard-times
+Stephen Blackpool,Twenty Pounds,1929,hard-times
+Slackbridge,Stephen Blackpool,1931,hard-times
+Slackbridge,Stephen Blackpool,1931,hard-times
+Slackbridge,Coketown Hands,1931,hard-times
+Slackbridge,Stephen Blackpool,1931,hard-times
+Slackbridge,Stephen Blackpool,1931,hard-times
+Slackbridge,Coketown Hands,1931,hard-times
+Stephen Blackpool,Slackbridge,1931,hard-times
+Stephen Blackpool,Slackbridge,1931,hard-times
+Stephen Blackpool,Coketown Hands,1931,hard-times
+Stephen Blackpool,Slackbridge,1931,hard-times
+Stephen Blackpool,Slackbridge,1931,hard-times
+Stephen Blackpool,Coketown Hands,1931,hard-times
+Coketown Hands,Slackbridge,1931,hard-times
+Coketown Hands,Slackbridge,1931,hard-times
+Coketown Hands,Stephen Blackpool,1931,hard-times
+Coketown Hands,Stephen Blackpool,1931,hard-times
+Mr. Bounderby,Sissy,1935,hard-times
+Mr. Bounderby,Mr. Tom,1935,hard-times
+Sissy,Mr. Bounderby,1935,hard-times
+Sissy,Mr. Tom,1935,hard-times
+Mr. Tom,Mr. Bounderby,1935,hard-times
+Mr. Tom,Sissy,1935,hard-times
+Father,Louisa,1938,hard-times
+Louisa,Father,1938,hard-times
+Sissy,Tom,1939,hard-times
+Tom,Sissy,1939,hard-times
+Bounderby,Tom Gradgrind,1940,hard-times
+Bounderby,Tom,1940,hard-times
+Tom Gradgrind,Bounderby,1940,hard-times
+Tom Gradgrind,Tom,1940,hard-times
+Tom,Bounderby,1940,hard-times
+Tom,Tom Gradgrind,1940,hard-times
+Tom,Bounderby,1948,hard-times
+Bounderby,Tom,1948,hard-times
+Say,Stephen,1950,hard-times
+Stephen,Say,1950,hard-times
+Rachael,Stephen Blackpool,1957,hard-times
+Rachael,Stephen,1957,hard-times
+Stephen Blackpool,Rachael,1957,hard-times
+Stephen Blackpool,Stephen,1957,hard-times
+Stephen,Rachael,1957,hard-times
+Stephen,Stephen Blackpool,1957,hard-times
+Young,Stephen,1965,hard-times
+Young,Mr. Bounderby,1965,hard-times
+Young,Mr. Bounderby,1965,hard-times
+Stephen,Young,1965,hard-times
+Stephen,Mr. Bounderby,1965,hard-times
+Stephen,Mr. Bounderby,1965,hard-times
+Mr. Bounderby,Young,1965,hard-times
+Mr. Bounderby,Stephen,1965,hard-times
+Mr. Bounderby,Young,1965,hard-times
+Mr. Bounderby,Stephen,1965,hard-times
+Mr. Bounderby,Stephen Blackpool,1968,hard-times
+Stephen Blackpool,Mr. Bounderby,1968,hard-times
+George,Bounderby,1970,hard-times
+Bounderby,George,1970,hard-times
+Tom,Mr. Bounderby,1977,hard-times
+Mr. Bounderby,Tom,1977,hard-times
+Mr. Gradgrind,Louisa,1978,hard-times
+Louisa,Mr. Gradgrind,1978,hard-times
+Rachael,Mr. Gradgrind,1986,hard-times
+Mr. Gradgrind,Rachael,1986,hard-times
+Louisa,Sissy,1992,hard-times
+Louisa,Sissy,1992,hard-times
+Sissy,Louisa,1992,hard-times
+Sissy,Louisa,1992,hard-times
+Sissy,Louisa,1992,hard-times
+Sissy,Louisa,1992,hard-times
+Louisa,Sissy,1992,hard-times
+Louisa,Sissy,1992,hard-times
+Sissy,Louisa,1993,hard-times
+Sissy,Stephen,1993,hard-times
+Sissy,Mr. Gradgrind,1993,hard-times
+Louisa,Sissy,1993,hard-times
+Louisa,Stephen,1993,hard-times
+Louisa,Mr. Gradgrind,1993,hard-times
+Stephen,Sissy,1993,hard-times
+Stephen,Louisa,1993,hard-times
+Stephen,Mr. Gradgrind,1993,hard-times
+Mr. Gradgrind,Sissy,1993,hard-times
+Mr. Gradgrind,Louisa,1993,hard-times
+Mr. Gradgrind,Stephen,1993,hard-times
+Stephen Blackpool,Stephen,1994,hard-times
+Stephen,Stephen Blackpool,1994,hard-times
+Rachael,Stephen Blackpool,1996,hard-times
+Rachael,Stephen Blackpool,1996,hard-times
+Stephen Blackpool,Rachael,1996,hard-times
+Stephen Blackpool,Rachael,1996,hard-times
+Stephen Blackpool,Rachael,1996,hard-times
+Rachael,Stephen Blackpool,1996,hard-times
+Stephen Blackpool,Where,2001,hard-times
+Where,Stephen Blackpool,2001,hard-times
+Sissy,Rachael,2002,hard-times
+Sissy,Rachael,2002,hard-times
+Sissy,Stephen Blackpool,2002,hard-times
+Rachael,Sissy,2002,hard-times
+Rachael,Stephen Blackpool,2002,hard-times
+Rachael,Sissy,2002,hard-times
+Rachael,Stephen Blackpool,2002,hard-times
+Stephen Blackpool,Sissy,2002,hard-times
+Stephen Blackpool,Rachael,2002,hard-times
+Stephen Blackpool,Rachael,2002,hard-times
+Sissy,Rachael,2004,hard-times
+Rachael,Sissy,2004,hard-times
+Rachel,God,2007,hard-times
+Rachel,Stephen Blackpool,2007,hard-times
+God,Rachel,2007,hard-times
+God,Stephen Blackpool,2007,hard-times
+Stephen Blackpool,Rachel,2007,hard-times
+Stephen Blackpool,God,2007,hard-times
+True,Sissy,2020,hard-times
+Sissy,True,2020,hard-times
+Mr. Bounderby,Sissy,2028,hard-times
+Sissy,Mr. Bounderby,2028,hard-times
+Sissy,Mr. Bounderby,2028,hard-times
+Sissy,Mr. Bounderby,2028,hard-times
+Mr. Bounderby,Sissy,2028,hard-times
+Mr. Bounderby,Sissy,2028,hard-times
+Sissy,Mr. Bounderby,2032,hard-times
+Mr. Bounderby,Sissy,2032,hard-times
+Fetch Mr. Bounderby,Rachael,2033,hard-times
+Rachael,Fetch Mr. Bounderby,2033,hard-times
+Pegler,Rachael,2034,hard-times
+Rachael,Pegler,2034,hard-times
+Fetch Mr. Bounderby,Stand,2035,hard-times
+Fetch Mr. Bounderby,Pegler,2035,hard-times
+Fetch Mr. Bounderby,Don,2035,hard-times
+Stand,Fetch Mr. Bounderby,2035,hard-times
+Stand,Pegler,2035,hard-times
+Stand,Don,2035,hard-times
+Pegler,Fetch Mr. Bounderby,2035,hard-times
+Pegler,Stand,2035,hard-times
+Pegler,Don,2035,hard-times
+Don,Fetch Mr. Bounderby,2035,hard-times
+Don,Stand,2035,hard-times
+Don,Pegler,2035,hard-times
+Mr.,Bounderby,2036,hard-times
+Mr.,Mr. Gradgrind,2036,hard-times
+Mr.,Mr. Bounderby,2036,hard-times
+Bounderby,Mr.,2036,hard-times
+Bounderby,Mr. Gradgrind,2036,hard-times
+Bounderby,Mr. Bounderby,2036,hard-times
+Mr. Gradgrind,Mr.,2036,hard-times
+Mr. Gradgrind,Bounderby,2036,hard-times
+Mr. Gradgrind,Mr. Bounderby,2036,hard-times
+Mr. Bounderby,Mr.,2036,hard-times
+Mr. Bounderby,Bounderby,2036,hard-times
+Mr. Bounderby,Mr. Gradgrind,2036,hard-times
+Sparsit,Mr. Bounderby,2039,hard-times
+Sparsit,Pegler,2039,hard-times
+Mr. Bounderby,Sparsit,2039,hard-times
+Mr. Bounderby,Pegler,2039,hard-times
+Pegler,Sparsit,2039,hard-times
+Pegler,Mr. Bounderby,2039,hard-times
+Pegler,Josiah,2044,hard-times
+Josiah,Pegler,2044,hard-times
+Pegler,Josiah,2046,hard-times
+Josiah,Pegler,2046,hard-times
+Mr. Bounderby,Pegler,2047,hard-times
+Mr. Bounderby,Pegler,2047,hard-times
+Mr. Bounderby,Mr. Gradgrind,2047,hard-times
+Pegler,Mr. Bounderby,2047,hard-times
+Pegler,Mr. Bounderby,2047,hard-times
+Pegler,Mr. Gradgrind,2047,hard-times
+Mr. Bounderby,Pegler,2047,hard-times
+Mr. Bounderby,Pegler,2047,hard-times
+Mr. Bounderby,Mr. Gradgrind,2047,hard-times
+Pegler,Mr. Bounderby,2047,hard-times
+Pegler,Mr. Bounderby,2047,hard-times
+Pegler,Mr. Gradgrind,2047,hard-times
+Mr. Gradgrind,Mr. Bounderby,2047,hard-times
+Mr. Gradgrind,Pegler,2047,hard-times
+Mr. Gradgrind,Mr. Bounderby,2047,hard-times
+Mr. Gradgrind,Pegler,2047,hard-times
+Pegler,Josiah,2051,hard-times
+Josiah,Pegler,2051,hard-times
+Josiah,Pegler,2054,hard-times
+Josiah,Pegler,2054,hard-times
+Josiah,Pegler,2054,hard-times
+Pegler,Josiah,2054,hard-times
+Pegler,Josiah,2054,hard-times
+Pegler,Josiah,2054,hard-times
+Pegler,Mr. Gradgrind,2055,hard-times
+Pegler,Mr. Bounderby,2055,hard-times
+Mr. Gradgrind,Pegler,2055,hard-times
+Mr. Gradgrind,Mr. Bounderby,2055,hard-times
+Mr. Bounderby,Pegler,2055,hard-times
+Mr. Bounderby,Mr. Gradgrind,2055,hard-times
+Mr. Bounderby,Tom Gradgrind,2056,hard-times
+Tom Gradgrind,Mr. Bounderby,2056,hard-times
+Mr. Bounderby,Josiah Bounderby,2057,hard-times
+Josiah Bounderby,Mr. Bounderby,2057,hard-times
+Sissy,Pegler,2058,hard-times
+Sissy,Stone Lodge,2058,hard-times
+Sissy,Mr. Gradgrind,2058,hard-times
+Sissy,Stephen Blackpool,2058,hard-times
+Sissy,Pegler,2058,hard-times
+Pegler,Sissy,2058,hard-times
+Pegler,Stone Lodge,2058,hard-times
+Pegler,Mr. Gradgrind,2058,hard-times
+Pegler,Stephen Blackpool,2058,hard-times
+Stone Lodge,Sissy,2058,hard-times
+Stone Lodge,Pegler,2058,hard-times
+Stone Lodge,Mr. Gradgrind,2058,hard-times
+Stone Lodge,Stephen Blackpool,2058,hard-times
+Stone Lodge,Pegler,2058,hard-times
+Mr. Gradgrind,Sissy,2058,hard-times
+Mr. Gradgrind,Pegler,2058,hard-times
+Mr. Gradgrind,Stone Lodge,2058,hard-times
+Mr. Gradgrind,Stephen Blackpool,2058,hard-times
+Mr. Gradgrind,Pegler,2058,hard-times
+Stephen Blackpool,Sissy,2058,hard-times
+Stephen Blackpool,Pegler,2058,hard-times
+Stephen Blackpool,Stone Lodge,2058,hard-times
+Stephen Blackpool,Mr. Gradgrind,2058,hard-times
+Stephen Blackpool,Pegler,2058,hard-times
+Pegler,Sissy,2058,hard-times
+Pegler,Stone Lodge,2058,hard-times
+Pegler,Mr. Gradgrind,2058,hard-times
+Pegler,Stephen Blackpool,2058,hard-times
+Rachael,Stephen,2060,hard-times
+Rachael,Louisa,2060,hard-times
+Rachael,Sissy,2060,hard-times
+Stephen,Rachael,2060,hard-times
+Stephen,Louisa,2060,hard-times
+Stephen,Sissy,2060,hard-times
+Louisa,Rachael,2060,hard-times
+Louisa,Stephen,2060,hard-times
+Louisa,Sissy,2060,hard-times
+Sissy,Rachael,2060,hard-times
+Sissy,Stephen,2060,hard-times
+Sissy,Louisa,2060,hard-times
+Stephen Blackpool,Where,2062,hard-times
+Where,Stephen Blackpool,2062,hard-times
+Sissy,Rachael,2065,hard-times
+Rachael,Sissy,2065,hard-times
+Coketown,Sissy,2066,hard-times
+Coketown,Rachael,2066,hard-times
+Coketown,Mr. Bounderby,2066,hard-times
+Sissy,Coketown,2066,hard-times
+Sissy,Rachael,2066,hard-times
+Sissy,Mr. Bounderby,2066,hard-times
+Rachael,Coketown,2066,hard-times
+Rachael,Sissy,2066,hard-times
+Rachael,Mr. Bounderby,2066,hard-times
+Mr. Bounderby,Coketown,2066,hard-times
+Mr. Bounderby,Sissy,2066,hard-times
+Mr. Bounderby,Rachael,2066,hard-times
+Rachael,Stephen Blackpool,2073,hard-times
+Stephen Blackpool,Rachael,2073,hard-times
+Rachael,Sissy,2076,hard-times
+Sissy,Rachael,2076,hard-times
+Rachael,Stephen,2079,hard-times
+Rachael,Stephen,2079,hard-times
+Rachael,Stephen,2079,hard-times
+Stephen,Rachael,2079,hard-times
+Stephen,Rachael,2079,hard-times
+Stephen,Rachael,2079,hard-times
+Rachael,Stephen,2081,hard-times
+Stephen,Rachael,2081,hard-times
+Sissy,Don,2087,hard-times
+Sissy,Run,2087,hard-times
+Don,Sissy,2087,hard-times
+Don,Run,2087,hard-times
+Run,Sissy,2087,hard-times
+Run,Don,2087,hard-times
+Sissy,Rachael,2091,hard-times
+Rachael,Sissy,2091,hard-times
+Sissy,Rachael,2092,hard-times
+Sissy,Mr. Gradgrind,2092,hard-times
+Sissy,Louisa,2092,hard-times
+Sissy,Mr. Bounderby,2092,hard-times
+Rachael,Sissy,2092,hard-times
+Rachael,Mr. Gradgrind,2092,hard-times
+Rachael,Louisa,2092,hard-times
+Rachael,Mr. Bounderby,2092,hard-times
+Mr. Gradgrind,Sissy,2092,hard-times
+Mr. Gradgrind,Rachael,2092,hard-times
+Mr. Gradgrind,Louisa,2092,hard-times
+Mr. Gradgrind,Mr. Bounderby,2092,hard-times
+Louisa,Sissy,2092,hard-times
+Louisa,Rachael,2092,hard-times
+Louisa,Mr. Gradgrind,2092,hard-times
+Louisa,Mr. Bounderby,2092,hard-times
+Mr. Bounderby,Sissy,2092,hard-times
+Mr. Bounderby,Rachael,2092,hard-times
+Mr. Bounderby,Mr. Gradgrind,2092,hard-times
+Mr. Bounderby,Louisa,2092,hard-times
+Sissy,Rachael,2093,hard-times
+Rachael,Sissy,2093,hard-times
+Mr. Bounderby,Stephen,2100,hard-times
+Stephen,Mr. Bounderby,2100,hard-times
+Rachael,Sissy,2103,hard-times
+Sissy,Rachael,2103,hard-times
+Thy,Thou,2112,hard-times
+Thou,Thy,2112,hard-times
+Mr.,Gradgrind,2126,hard-times
+Gradgrind,Mr.,2126,hard-times
+Rachael,Don,2131,hard-times
+Don,Rachael,2131,hard-times
+Mr. Bounderby,Mr. Gradgrind,2137,hard-times
+Mr. Bounderby,Sissy,2137,hard-times
+Mr. Gradgrind,Mr. Bounderby,2137,hard-times
+Mr. Gradgrind,Sissy,2137,hard-times
+Sissy,Mr. Bounderby,2137,hard-times
+Sissy,Mr. Gradgrind,2137,hard-times
+Louisa,Mr. Gradgrind,2139,hard-times
+Mr. Gradgrind,Louisa,2139,hard-times
+Mr. Bounderby,Stephen Blackpool,2140,hard-times
+Stephen Blackpool,Mr. Bounderby,2140,hard-times
+Stephen Blackpool,Mr. Bounderby,2140,hard-times
+Mr. Bounderby,Stephen Blackpool,2140,hard-times
+Mr.,Gradgrind,2141,hard-times
+Mr.,Sissy,2141,hard-times
+Mr.,Louisa,2141,hard-times
+Gradgrind,Mr.,2141,hard-times
+Gradgrind,Sissy,2141,hard-times
+Gradgrind,Louisa,2141,hard-times
+Sissy,Mr.,2141,hard-times
+Sissy,Gradgrind,2141,hard-times
+Sissy,Louisa,2141,hard-times
+Louisa,Mr.,2141,hard-times
+Louisa,Gradgrind,2141,hard-times
+Louisa,Sissy,2141,hard-times
+Louisa,Heaven,2143,hard-times
+Heaven,Louisa,2143,hard-times
+Louisa,Stephen,2152,hard-times
+Stephen,Louisa,2152,hard-times
+Sissy,Don,2158,hard-times
+Sissy,Escape,2158,hard-times
+Sissy,Mr. Sleary,2158,hard-times
+Sissy,Mr. Sleary,2158,hard-times
+Don,Sissy,2158,hard-times
+Don,Escape,2158,hard-times
+Don,Mr. Sleary,2158,hard-times
+Don,Mr. Sleary,2158,hard-times
+Escape,Sissy,2158,hard-times
+Escape,Don,2158,hard-times
+Escape,Mr. Sleary,2158,hard-times
+Escape,Mr. Sleary,2158,hard-times
+Mr. Sleary,Sissy,2158,hard-times
+Mr. Sleary,Don,2158,hard-times
+Mr. Sleary,Escape,2158,hard-times
+Mr. Sleary,Sissy,2158,hard-times
+Mr. Sleary,Don,2158,hard-times
+Mr. Sleary,Escape,2158,hard-times
+Sissy,Mr. Bounderby,2160,hard-times
+Sissy,Louisa,2160,hard-times
+Sissy,Mr. Sleary,2160,hard-times
+Sissy,Louisa,2160,hard-times
+Sissy,Mr. Gradgrind,2160,hard-times
+Mr. Bounderby,Sissy,2160,hard-times
+Mr. Bounderby,Sissy,2160,hard-times
+Mr. Bounderby,Louisa,2160,hard-times
+Mr. Bounderby,Mr. Sleary,2160,hard-times
+Mr. Bounderby,Sissy,2160,hard-times
+Mr. Bounderby,Louisa,2160,hard-times
+Mr. Bounderby,Mr. Gradgrind,2160,hard-times
+Sissy,Mr. Bounderby,2160,hard-times
+Sissy,Louisa,2160,hard-times
+Sissy,Mr. Sleary,2160,hard-times
+Sissy,Louisa,2160,hard-times
+Sissy,Mr. Gradgrind,2160,hard-times
+Louisa,Sissy,2160,hard-times
+Louisa,Mr. Bounderby,2160,hard-times
+Louisa,Sissy,2160,hard-times
+Louisa,Mr. Sleary,2160,hard-times
+Louisa,Sissy,2160,hard-times
+Louisa,Mr. Gradgrind,2160,hard-times
+Mr. Sleary,Sissy,2160,hard-times
+Mr. Sleary,Mr. Bounderby,2160,hard-times
+Mr. Sleary,Sissy,2160,hard-times
+Mr. Sleary,Louisa,2160,hard-times
+Mr. Sleary,Sissy,2160,hard-times
+Mr. Sleary,Louisa,2160,hard-times
+Mr. Sleary,Mr. Gradgrind,2160,hard-times
+Sissy,Mr. Bounderby,2160,hard-times
+Sissy,Louisa,2160,hard-times
+Sissy,Mr. Sleary,2160,hard-times
+Sissy,Louisa,2160,hard-times
+Sissy,Mr. Gradgrind,2160,hard-times
+Louisa,Sissy,2160,hard-times
+Louisa,Mr. Bounderby,2160,hard-times
+Louisa,Sissy,2160,hard-times
+Louisa,Mr. Sleary,2160,hard-times
+Louisa,Sissy,2160,hard-times
+Louisa,Mr. Gradgrind,2160,hard-times
+Mr. Gradgrind,Sissy,2160,hard-times
+Mr. Gradgrind,Mr. Bounderby,2160,hard-times
+Mr. Gradgrind,Sissy,2160,hard-times
+Mr. Gradgrind,Louisa,2160,hard-times
+Mr. Gradgrind,Mr. Sleary,2160,hard-times
+Mr. Gradgrind,Sissy,2160,hard-times
+Mr. Gradgrind,Louisa,2160,hard-times
+Sleary,Circus,2162,hard-times
+Circus,Sleary,2162,hard-times
+Circus,Sleary,2162,hard-times
+Sleary,Circus,2162,hard-times
+Sissy,Mr. Sleary,2163,hard-times
+Mr. Sleary,Sissy,2163,hard-times
+Mr. Sleary,Master Kidderminster,2164,hard-times
+Mr. Sleary,Cupid,2164,hard-times
+Mr. Sleary,Mr. Kidderminster,2164,hard-times
+Mr. Sleary,Sissy,2164,hard-times
+Master Kidderminster,Mr. Sleary,2164,hard-times
+Master Kidderminster,Cupid,2164,hard-times
+Master Kidderminster,Mr. Kidderminster,2164,hard-times
+Master Kidderminster,Sissy,2164,hard-times
+Cupid,Mr. Sleary,2164,hard-times
+Cupid,Master Kidderminster,2164,hard-times
+Cupid,Mr. Kidderminster,2164,hard-times
+Cupid,Sissy,2164,hard-times
+Mr. Kidderminster,Mr. Sleary,2164,hard-times
+Mr. Kidderminster,Master Kidderminster,2164,hard-times
+Mr. Kidderminster,Cupid,2164,hard-times
+Mr. Kidderminster,Sissy,2164,hard-times
+Sissy,Mr. Sleary,2164,hard-times
+Sissy,Master Kidderminster,2164,hard-times
+Sissy,Cupid,2164,hard-times
+Sissy,Mr. Kidderminster,2164,hard-times
+Sissy,Miss Josephine Sleary,2165,hard-times
+Sissy,Cauliflower Act,2165,hard-times
+Sissy,Mr. Sleary,2165,hard-times
+Miss Josephine Sleary,Sissy,2165,hard-times
+Miss Josephine Sleary,Cauliflower Act,2165,hard-times
+Miss Josephine Sleary,Mr. Sleary,2165,hard-times
+Cauliflower Act,Sissy,2165,hard-times
+Cauliflower Act,Miss Josephine Sleary,2165,hard-times
+Cauliflower Act,Mr. Sleary,2165,hard-times
+Mr. Sleary,Sissy,2165,hard-times
+Mr. Sleary,Miss Josephine Sleary,2165,hard-times
+Mr. Sleary,Cauliflower Act,2165,hard-times
+Mr.,Sleary,2166,hard-times
+Mr.,Clown,2166,hard-times
+Mr.,Sissy,2166,hard-times
+Mr.,Mr. Sleary,2166,hard-times
+Mr.,Sissy,2166,hard-times
+Mr.,Louisa,2166,hard-times
+Mr.,Mr. Sleary,2166,hard-times
+Mr.,Josephine,2166,hard-times
+Mr.,Sissy,2166,hard-times
+Sleary,Mr.,2166,hard-times
+Sleary,Clown,2166,hard-times
+Sleary,Sissy,2166,hard-times
+Sleary,Mr. Sleary,2166,hard-times
+Sleary,Sissy,2166,hard-times
+Sleary,Louisa,2166,hard-times
+Sleary,Mr. Sleary,2166,hard-times
+Sleary,Josephine,2166,hard-times
+Sleary,Sissy,2166,hard-times
+Clown,Mr.,2166,hard-times
+Clown,Sleary,2166,hard-times
+Clown,Sissy,2166,hard-times
+Clown,Mr. Sleary,2166,hard-times
+Clown,Sissy,2166,hard-times
+Clown,Louisa,2166,hard-times
+Clown,Mr. Sleary,2166,hard-times
+Clown,Josephine,2166,hard-times
+Clown,Sissy,2166,hard-times
+Sissy,Mr.,2166,hard-times
+Sissy,Sleary,2166,hard-times
+Sissy,Clown,2166,hard-times
+Sissy,Mr. Sleary,2166,hard-times
+Sissy,Louisa,2166,hard-times
+Sissy,Mr. Sleary,2166,hard-times
+Sissy,Josephine,2166,hard-times
+Mr. Sleary,Mr.,2166,hard-times
+Mr. Sleary,Sleary,2166,hard-times
+Mr. Sleary,Clown,2166,hard-times
+Mr. Sleary,Sissy,2166,hard-times
+Mr. Sleary,Sissy,2166,hard-times
+Mr. Sleary,Louisa,2166,hard-times
+Mr. Sleary,Josephine,2166,hard-times
+Mr. Sleary,Sissy,2166,hard-times
+Sissy,Mr.,2166,hard-times
+Sissy,Sleary,2166,hard-times
+Sissy,Clown,2166,hard-times
+Sissy,Mr. Sleary,2166,hard-times
+Sissy,Louisa,2166,hard-times
+Sissy,Mr. Sleary,2166,hard-times
+Sissy,Josephine,2166,hard-times
+Louisa,Mr.,2166,hard-times
+Louisa,Sleary,2166,hard-times
+Louisa,Clown,2166,hard-times
+Louisa,Sissy,2166,hard-times
+Louisa,Mr. Sleary,2166,hard-times
+Louisa,Sissy,2166,hard-times
+Louisa,Mr. Sleary,2166,hard-times
+Louisa,Josephine,2166,hard-times
+Louisa,Sissy,2166,hard-times
+Mr. Sleary,Mr.,2166,hard-times
+Mr. Sleary,Sleary,2166,hard-times
+Mr. Sleary,Clown,2166,hard-times
+Mr. Sleary,Sissy,2166,hard-times
+Mr. Sleary,Sissy,2166,hard-times
+Mr. Sleary,Louisa,2166,hard-times
+Mr. Sleary,Josephine,2166,hard-times
+Mr. Sleary,Sissy,2166,hard-times
+Josephine,Mr.,2166,hard-times
+Josephine,Sleary,2166,hard-times
+Josephine,Clown,2166,hard-times
+Josephine,Sissy,2166,hard-times
+Josephine,Mr. Sleary,2166,hard-times
+Josephine,Sissy,2166,hard-times
+Josephine,Louisa,2166,hard-times
+Josephine,Mr. Sleary,2166,hard-times
+Josephine,Sissy,2166,hard-times
+Sissy,Mr.,2166,hard-times
+Sissy,Sleary,2166,hard-times
+Sissy,Clown,2166,hard-times
+Sissy,Mr. Sleary,2166,hard-times
+Sissy,Louisa,2166,hard-times
+Sissy,Mr. Sleary,2166,hard-times
+Sissy,Josephine,2166,hard-times
+Louisa,Mr. Sleary,2167,hard-times
+Louisa,Mr. Sleary,2167,hard-times
+Louisa,Kidderminthter,2167,hard-times
+Louisa,Emma Gordon,2167,hard-times
+Louisa,Emma,2167,hard-times
+Mr. Sleary,Louisa,2167,hard-times
+Mr. Sleary,Kidderminthter,2167,hard-times
+Mr. Sleary,Emma Gordon,2167,hard-times
+Mr. Sleary,Emma,2167,hard-times
+Mr. Sleary,Louisa,2167,hard-times
+Mr. Sleary,Kidderminthter,2167,hard-times
+Mr. Sleary,Emma Gordon,2167,hard-times
+Mr. Sleary,Emma,2167,hard-times
+Kidderminthter,Louisa,2167,hard-times
+Kidderminthter,Mr. Sleary,2167,hard-times
+Kidderminthter,Mr. Sleary,2167,hard-times
+Kidderminthter,Emma Gordon,2167,hard-times
+Kidderminthter,Emma,2167,hard-times
+Emma Gordon,Louisa,2167,hard-times
+Emma Gordon,Mr. Sleary,2167,hard-times
+Emma Gordon,Mr. Sleary,2167,hard-times
+Emma Gordon,Kidderminthter,2167,hard-times
+Emma Gordon,Emma,2167,hard-times
+Emma,Louisa,2167,hard-times
+Emma,Mr. Sleary,2167,hard-times
+Emma,Mr. Sleary,2167,hard-times
+Emma,Kidderminthter,2167,hard-times
+Emma,Emma Gordon,2167,hard-times
+Mr. Sleary,Sissy,2168,hard-times
+Sissy,Mr. Sleary,2168,hard-times
+Sleary,Jack,2176,hard-times
+Sleary,Jack,2176,hard-times
+Jack,Sleary,2176,hard-times
+Jack,Sleary,2176,hard-times
+Mr. Sleary,Sissy,2181,hard-times
+Sissy,Mr. Sleary,2181,hard-times
+Mr.,Gradgrind,2182,hard-times
+Mr.,Sleary,2182,hard-times
+Gradgrind,Mr.,2182,hard-times
+Gradgrind,Sleary,2182,hard-times
+Sleary,Mr.,2182,hard-times
+Sleary,Gradgrind,2182,hard-times
+Mr.,Gradgrind,2197,hard-times
+Mr.,Sleary,2197,hard-times
+Gradgrind,Mr.,2197,hard-times
+Gradgrind,Sleary,2197,hard-times
+Sleary,Mr.,2197,hard-times
+Sleary,Gradgrind,2197,hard-times
+Thquire,Liverpool,2198,hard-times
+Liverpool,Thquire,2198,hard-times
+Mr. Gradgrind,Will,2199,hard-times
+Will,Mr. Gradgrind,2199,hard-times
+Mr.,Gradgrind,2203,hard-times
+Mr.,Mr. Sleary,2203,hard-times
+Mr.,Mr. Sleary,2203,hard-times
+Gradgrind,Mr.,2203,hard-times
+Gradgrind,Mr. Sleary,2203,hard-times
+Gradgrind,Mr. Sleary,2203,hard-times
+Mr. Sleary,Mr.,2203,hard-times
+Mr. Sleary,Gradgrind,2203,hard-times
+Mr. Sleary,Mr.,2203,hard-times
+Mr. Sleary,Gradgrind,2203,hard-times
+Mr. Harthouse,Pretty,2209,hard-times
+Mr. Harthouse,Pretty,2209,hard-times
+Pretty,Mr. Harthouse,2209,hard-times
+Pretty,Mr. Harthouse,2209,hard-times
+Tharp,Sleary,2210,hard-times
+Sleary,Tharp,2210,hard-times
+Mr. Gradgrind,Sissy,2211,hard-times
+Sissy,Mr. Gradgrind,2211,hard-times
+Bitzer,Mr. Tom,2213,hard-times
+Mr. Tom,Bitzer,2213,hard-times
+Bitzer,Harvey,2219,hard-times
+Harvey,Bitzer,2219,hard-times
+Sir,Bitzer,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Sir,Mr. Bounderby,2224,hard-times
+Sir,Mr. Bounderby,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Bitzer,Sir,2224,hard-times
+Bitzer,Mr. Tom,2224,hard-times
+Bitzer,Mr. Tom,2224,hard-times
+Bitzer,Mr. Tom,2224,hard-times
+Bitzer,Mr. Bounderby,2224,hard-times
+Bitzer,Sir,2224,hard-times
+Bitzer,Mr. Bounderby,2224,hard-times
+Bitzer,Mr. Tom,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Bitzer,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Bitzer,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Bitzer,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Bounderby,Sir,2224,hard-times
+Mr. Bounderby,Bitzer,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Bounderby,Sir,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Sir,Bitzer,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Sir,Mr. Bounderby,2224,hard-times
+Sir,Mr. Bounderby,2224,hard-times
+Sir,Mr. Tom,2224,hard-times
+Mr. Bounderby,Sir,2224,hard-times
+Mr. Bounderby,Bitzer,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Bounderby,Sir,2224,hard-times
+Mr. Bounderby,Mr. Tom,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Bitzer,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Tom,Sir,2224,hard-times
+Mr. Tom,Mr. Bounderby,2224,hard-times
+Mr. Gradgrind,See,2229,hard-times
+See,Mr. Gradgrind,2229,hard-times
+Nobody,Gratitude,2231,hard-times
+Gratitude,Nobody,2231,hard-times
+Mr. Gradgrind,Sissy,2237,hard-times
+Sissy,Mr. Gradgrind,2237,hard-times
+Mr. Childers,Mr. Sleary,2239,hard-times
+Mr. Childers,Mr. Sleary,2239,hard-times
+Mr. Childers,Bitzer,2239,hard-times
+Mr. Childers,Bitzer,2239,hard-times
+Mr. Sleary,Mr. Childers,2239,hard-times
+Mr. Sleary,Bitzer,2239,hard-times
+Mr. Sleary,Bitzer,2239,hard-times
+Mr. Sleary,Mr. Childers,2239,hard-times
+Mr. Sleary,Bitzer,2239,hard-times
+Mr. Sleary,Bitzer,2239,hard-times
+Bitzer,Mr. Childers,2239,hard-times
+Bitzer,Mr. Sleary,2239,hard-times
+Bitzer,Mr. Sleary,2239,hard-times
+Bitzer,Mr. Childers,2239,hard-times
+Bitzer,Mr. Sleary,2239,hard-times
+Bitzer,Mr. Sleary,2239,hard-times
+Thquire,Mr. Sleary,2241,hard-times
+Thquire,Childerth,2241,hard-times
+Thquire,Rathcal,2241,hard-times
+Mr. Sleary,Thquire,2241,hard-times
+Mr. Sleary,Childerth,2241,hard-times
+Mr. Sleary,Rathcal,2241,hard-times
+Childerth,Thquire,2241,hard-times
+Childerth,Mr. Sleary,2241,hard-times
+Childerth,Rathcal,2241,hard-times
+Rathcal,Thquire,2241,hard-times
+Rathcal,Mr. Sleary,2241,hard-times
+Rathcal,Childerth,2241,hard-times
+Mr.,Gradgrind,2242,hard-times
+Gradgrind,Mr.,2242,hard-times
+Brandy,Thquire,2243,hard-times
+Thquire,Brandy,2243,hard-times
+Sissy,Mr. Sleary,2246,hard-times
+Mr. Sleary,Sissy,2246,hard-times
+Sleary,Thquire,2251,hard-times
+Sleary,Thleary,2251,hard-times
+Sleary,Thquire,2251,hard-times
+Sleary,_I_,2251,hard-times
+Thquire,Sleary,2251,hard-times
+Thquire,Thleary,2251,hard-times
+Thquire,_I_,2251,hard-times
+Thleary,Sleary,2251,hard-times
+Thleary,Thquire,2251,hard-times
+Thleary,Thquire,2251,hard-times
+Thleary,_I_,2251,hard-times
+Thquire,Sleary,2251,hard-times
+Thquire,Thleary,2251,hard-times
+Thquire,_I_,2251,hard-times
+_I_,Sleary,2251,hard-times
+_I_,Thquire,2251,hard-times
+_I_,Thleary,2251,hard-times
+_I_,Thquire,2251,hard-times
+Mr.,Gradgrind,2252,hard-times
+Gradgrind,Mr.,2252,hard-times
+Sleary,Thquire,2253,hard-times
+Sleary,Thquire,2253,hard-times
+Thquire,Sleary,2253,hard-times
+Thquire,Sleary,2253,hard-times
+Thquire,Joth,2255,hard-times
+Joth,Thquire,2255,hard-times
+Joth,Thquire,2255,hard-times
+Thquire,Joth,2255,hard-times
+Thquire,Mr. Sleary,2257,hard-times
+Mr. Sleary,Thquire,2257,hard-times
+Mr.,Gradgrind,2258,hard-times
+Mr.,Mr. Sleary,2258,hard-times
+Gradgrind,Mr.,2258,hard-times
+Gradgrind,Mr. Sleary,2258,hard-times
+Mr. Sleary,Mr.,2258,hard-times
+Mr. Sleary,Gradgrind,2258,hard-times
+Mith Thquire,Don,2259,hard-times
+Mith Thquire,Thquire,2259,hard-times
+Don,Mith Thquire,2259,hard-times
+Don,Thquire,2259,hard-times
+Thquire,Mith Thquire,2259,hard-times
+Thquire,Don,2259,hard-times
+Mr. Bounderby,Sparsit,2263,hard-times
+Mr. Bounderby,Pegler,2263,hard-times
+Sparsit,Mr. Bounderby,2263,hard-times
+Sparsit,Pegler,2263,hard-times
+Pegler,Mr. Bounderby,2263,hard-times
+Pegler,Sparsit,2263,hard-times
+Mr. Bounderby,_Your_,2268,hard-times
+Mr. Bounderby,Sparsit,2268,hard-times
+_Your_,Mr. Bounderby,2268,hard-times
+_Your_,Sparsit,2268,hard-times
+Sparsit,Mr. Bounderby,2268,hard-times
+Sparsit,_Your_,2268,hard-times
+Sparsit,Bounderby,2269,hard-times
+Bounderby,Sparsit,2269,hard-times
+Bounderby,Mr. Bounderby,2274,hard-times
+Mr. Bounderby,Bounderby,2274,hard-times
+Pray,Sparsit,2282,hard-times
+Pray,Mr. Bounderby,2282,hard-times
+Sparsit,Pray,2282,hard-times
+Sparsit,Mr. Bounderby,2282,hard-times
+Mr. Bounderby,Pray,2282,hard-times
+Mr. Bounderby,Sparsit,2282,hard-times
+Lady Scadgers,Don,2284,hard-times
+Don,Lady Scadgers,2284,hard-times
+Bounderby,Josiah Bounderby,2286,hard-times
+Josiah Bounderby,Bounderby,2286,hard-times
+Tom,Josiah Bounderby,2290,hard-times
+Tom,Josiah Bounderby,2290,hard-times
+Tom,Coketown,2290,hard-times
+Josiah Bounderby,Tom,2290,hard-times
+Josiah Bounderby,Coketown,2290,hard-times
+Josiah Bounderby,Tom,2290,hard-times
+Josiah Bounderby,Coketown,2290,hard-times
+Coketown,Tom,2290,hard-times
+Coketown,Josiah Bounderby,2290,hard-times
+Coketown,Josiah Bounderby,2290,hard-times
+Mr. Gradgrind,Heavenly,2291,hard-times
+Heavenly,Mr. Gradgrind,2291,hard-times
+Louisa,Stephen Blackpool,2293,hard-times
+Louisa,Stephen Blackpool,2293,hard-times
+Stephen Blackpool,Louisa,2293,hard-times
+Stephen Blackpool,Louisa,2293,hard-times
+Pieces_,Project Gutenberg,2301,hard-times
+Project Gutenberg,Pieces_,2301,hard-times
+Project,Project Gutenberg,2305,hard-times
+Project,Project Gutenberg,2305,hard-times
+Project Gutenberg,Project,2305,hard-times
+Project Gutenberg,Project,2305,hard-times
+Project Gutenberg,Project,2312,hard-times
+Project Gutenberg,Project,2312,hard-times
+Project,Project Gutenberg,2312,hard-times
+Project,Project Gutenberg,2312,hard-times
+Project Gutenberg,Project,2313,hard-times
+Project,Project Gutenberg,2313,hard-times
+Vanilla ASCII,Project,2321,hard-times
+Vanilla ASCII,Plain Vanilla,2321,hard-times
+Project,Vanilla ASCII,2321,hard-times
+Project,Plain Vanilla,2321,hard-times
+Plain Vanilla,Vanilla ASCII,2321,hard-times
+Plain Vanilla,Project,2321,hard-times
+Project Gutenberg,Project,2327,hard-times
+Project,Project Gutenberg,2327,hard-times
+Salt Lake City,Email,2338,hard-times
+Email,Salt Lake City,2338,hard-times
+Michael S. Hart,Project,2346,hard-times
+Project,Michael S. Hart,2346,hard-times
